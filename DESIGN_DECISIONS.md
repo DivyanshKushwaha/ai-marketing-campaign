@@ -1,6 +1,6 @@
 # Design Decisions
 
-Numbered decisions for the Zuvees marketing automation pipeline, with explicit trade-offs. I favoured a **reproducible offline deliverable** over production completeness.
+Numbered decisions for this marketing automation pipeline, with explicit trade-offs. I favoured a **reproducible offline deliverable** over production completeness.
 
 ---
 
