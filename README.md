@@ -63,7 +63,7 @@ LLM_MODEL=gpt-4o-mini
 
 | Variable | Required | Description |
 |----------|----------|-------------|
-| `OPENAI_API_KEY` | No* | OpenAI key for LiteLLM. If unset, message generation uses built-in fallback templates. |
+| `OPENAI_API_KEY` | Yes* | OpenAI key for LiteLLM. If unset, message generation uses built-in fallback templates. |
 | `LLM_MODEL` | No | Model id passed to LiteLLM (default: `gpt-4o-mini`). |
 
 \*Pipeline still completes without a key; copy will not be LLM-personalised.
