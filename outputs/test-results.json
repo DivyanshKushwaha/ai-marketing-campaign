@@ -1,0 +1,24 @@
+{
+  "total_tests": 7,
+  "passed": 7,
+  "failed": 0,
+  "coverage_percent": 81.4,
+  "categories": {
+    "occasion_detection": {
+      "passed": 2,
+      "failed": 0
+    },
+    "message_engine": {
+      "passed": 2,
+      "failed": 0
+    },
+    "orchestration": {
+      "passed": 1,
+      "failed": 0
+    },
+    "outputs": {
+      "passed": 2,
+      "failed": 0
+    }
+  }
+}

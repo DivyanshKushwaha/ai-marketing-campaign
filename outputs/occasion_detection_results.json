@@ -1,0 +1,3572 @@
+[
+  {
+    "customer_id": "cust_018",
+    "occasion": "anniversary",
+    "predicted_date": "2026-09-23",
+    "confidence": "high",
+    "evidence": [
+      "Profile update saved anniversary for Dad"
+    ],
+    "recipient_name": "Dad",
+    "recipient_relationship": null,
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_028",
+    "occasion": "birthday",
+    "predicted_date": "2026-07-21",
+    "confidence": "high",
+    "evidence": [
+      "Profile update saved birthday for Ahmed"
+    ],
+    "recipient_name": "Ahmed",
+    "recipient_relationship": null,
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_020",
+    "occasion": "parent_birthday",
+    "predicted_date": "2026-07-19",
+    "confidence": "high",
+    "evidence": [
+      "Profile update saved parent_birthday for Ahmed"
+    ],
+    "recipient_name": "Ahmed",
+    "recipient_relationship": null,
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_010",
+    "occasion": "anniversary",
+    "predicted_date": "2026-06-01",
+    "confidence": "high",
+    "evidence": [
+      "Profile update saved anniversary for Dad"
+    ],
+    "recipient_name": "Dad",
+    "recipient_relationship": null,
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_033",
+    "occasion": "anniversary",
+    "predicted_date": "2026-08-02",
+    "confidence": "high",
+    "evidence": [
+      "Profile update saved anniversary for Mom"
+    ],
+    "recipient_name": "Mom",
+    "recipient_relationship": null,
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_036",
+    "occasion": "spouse_birthday",
+    "predicted_date": "2026-08-23",
+    "confidence": "high",
+    "evidence": [
+      "Profile update saved spouse_birthday for Mom"
+    ],
+    "recipient_name": "Mom",
+    "recipient_relationship": null,
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_024",
+    "occasion": "birthday",
+    "predicted_date": "2026-06-27",
+    "confidence": "high",
+    "evidence": [
+      "Profile update saved birthday for James"
+    ],
+    "recipient_name": "James",
+    "recipient_relationship": null,
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_013",
+    "occasion": "spouse_birthday",
+    "predicted_date": "2026-08-18",
+    "confidence": "high",
+    "evidence": [
+      "Profile update saved spouse_birthday for Layla"
+    ],
+    "recipient_name": "Layla",
+    "recipient_relationship": null,
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_017",
+    "occasion": "spouse_birthday",
+    "predicted_date": "2026-09-27",
+    "confidence": "high",
+    "evidence": [
+      "Profile update saved spouse_birthday for Mom"
+    ],
+    "recipient_name": "Mom",
+    "recipient_relationship": null,
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_014",
+    "occasion": "birthday",
+    "predicted_date": "2026-11-23",
+    "confidence": "high",
+    "evidence": [
+      "Profile update saved birthday for Omar"
+    ],
+    "recipient_name": "Omar",
+    "recipient_relationship": null,
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_011",
+    "occasion": "spouse_birthday",
+    "predicted_date": "2026-11-12",
+    "confidence": "high",
+    "evidence": [
+      "Profile update saved spouse_birthday for Sarah"
+    ],
+    "recipient_name": "Sarah",
+    "recipient_relationship": null,
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_019",
+    "occasion": "anniversary",
+    "predicted_date": "2026-09-16",
+    "confidence": "high",
+    "evidence": [
+      "Profile update saved anniversary for Sarah"
+    ],
+    "recipient_name": "Sarah",
+    "recipient_relationship": null,
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_008",
+    "occasion": "spouse_birthday",
+    "predicted_date": "2026-07-14",
+    "confidence": "high",
+    "evidence": [
+      "Profile update saved spouse_birthday for Mom"
+    ],
+    "recipient_name": "Mom",
+    "recipient_relationship": null,
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_015",
+    "occasion": "parent_birthday",
+    "predicted_date": "2026-07-02",
+    "confidence": "high",
+    "evidence": [
+      "Profile update saved parent_birthday for Mom"
+    ],
+    "recipient_name": "Mom",
+    "recipient_relationship": null,
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_005",
+    "occasion": "parent_birthday",
+    "predicted_date": "2026-07-21",
+    "confidence": "high",
+    "evidence": [
+      "Profile update saved parent_birthday for Layla"
+    ],
+    "recipient_name": "Layla",
+    "recipient_relationship": null,
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_007",
+    "occasion": "birthday",
+    "predicted_date": "2026-09-06",
+    "confidence": "high",
+    "evidence": [
+      "Profile update saved birthday for Fatima"
+    ],
+    "recipient_name": "Fatima",
+    "recipient_relationship": null,
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_004",
+    "occasion": "spouse_birthday",
+    "predicted_date": "2026-11-22",
+    "confidence": "high",
+    "evidence": [
+      "Profile update saved spouse_birthday for Ahmed"
+    ],
+    "recipient_name": "Ahmed",
+    "recipient_relationship": null,
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_002",
+    "occasion": "anniversary",
+    "predicted_date": "2026-10-27",
+    "confidence": "high",
+    "evidence": [
+      "Profile update saved anniversary for Dad"
+    ],
+    "recipient_name": "Dad",
+    "recipient_relationship": null,
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_003",
+    "occasion": "birthday",
+    "predicted_date": "2026-11-09",
+    "confidence": "high",
+    "evidence": [
+      "Profile update saved birthday for Sarah"
+    ],
+    "recipient_name": "Sarah",
+    "recipient_relationship": null,
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_016",
+    "occasion": "birthday",
+    "predicted_date": "2026-09-23",
+    "confidence": "high",
+    "evidence": [
+      "Profile update saved birthday for James"
+    ],
+    "recipient_name": "James",
+    "recipient_relationship": null,
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_001",
+    "occasion": "spouse_birthday",
+    "predicted_date": "2026-07-05",
+    "confidence": "high",
+    "evidence": [
+      "Profile update saved spouse_birthday for Mom"
+    ],
+    "recipient_name": "Mom",
+    "recipient_relationship": null,
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_009",
+    "occasion": "spouse_birthday",
+    "predicted_date": "2026-07-17",
+    "confidence": "high",
+    "evidence": [
+      "Profile update saved spouse_birthday for Mom"
+    ],
+    "recipient_name": "Mom",
+    "recipient_relationship": null,
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_012",
+    "occasion": "parent_birthday",
+    "predicted_date": "2026-06-15",
+    "confidence": "high",
+    "evidence": [
+      "Profile update saved parent_birthday for Ahmed"
+    ],
+    "recipient_name": "Ahmed",
+    "recipient_relationship": null,
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_023",
+    "occasion": "anniversary",
+    "predicted_date": "2026-08-18",
+    "confidence": "high",
+    "evidence": [
+      "Profile update saved anniversary for Fatima"
+    ],
+    "recipient_name": "Fatima",
+    "recipient_relationship": null,
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_034",
+    "occasion": "parent_birthday",
+    "predicted_date": "2026-06-23",
+    "confidence": "high",
+    "evidence": [
+      "Profile update saved parent_birthday for Dad"
+    ],
+    "recipient_name": "Dad",
+    "recipient_relationship": null,
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_006",
+    "occasion": "birthday",
+    "predicted_date": "2026-10-12",
+    "confidence": "high",
+    "evidence": [
+      "Profile update saved birthday for Omar"
+    ],
+    "recipient_name": "Omar",
+    "recipient_relationship": null,
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_026",
+    "occasion": "birthday",
+    "predicted_date": "2026-10-26",
+    "confidence": "high",
+    "evidence": [
+      "Profile update saved birthday for Dad"
+    ],
+    "recipient_name": "Dad",
+    "recipient_relationship": null,
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_040",
+    "occasion": "spouse_birthday",
+    "predicted_date": "2026-10-17",
+    "confidence": "high",
+    "evidence": [
+      "Profile update saved spouse_birthday for James"
+    ],
+    "recipient_name": "James",
+    "recipient_relationship": null,
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_029",
+    "occasion": "anniversary",
+    "predicted_date": "2026-07-28",
+    "confidence": "high",
+    "evidence": [
+      "Profile update saved anniversary for Mom"
+    ],
+    "recipient_name": "Mom",
+    "recipient_relationship": null,
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_030",
+    "occasion": "birthday",
+    "predicted_date": "2026-07-25",
+    "confidence": "high",
+    "evidence": [
+      "Profile update saved birthday for Omar"
+    ],
+    "recipient_name": "Omar",
+    "recipient_relationship": null,
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_021",
+    "occasion": "anniversary",
+    "predicted_date": "2026-09-07",
+    "confidence": "high",
+    "evidence": [
+      "Profile update saved anniversary for Layla"
+    ],
+    "recipient_name": "Layla",
+    "recipient_relationship": null,
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_025",
+    "occasion": "anniversary",
+    "predicted_date": "2026-11-20",
+    "confidence": "high",
+    "evidence": [
+      "Profile update saved anniversary for Mom"
+    ],
+    "recipient_name": "Mom",
+    "recipient_relationship": null,
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_038",
+    "occasion": "spouse_birthday",
+    "predicted_date": "2026-07-12",
+    "confidence": "high",
+    "evidence": [
+      "Profile update saved spouse_birthday for Omar"
+    ],
+    "recipient_name": "Omar",
+    "recipient_relationship": null,
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_032",
+    "occasion": "spouse_birthday",
+    "predicted_date": "2026-10-16",
+    "confidence": "high",
+    "evidence": [
+      "Profile update saved spouse_birthday for James"
+    ],
+    "recipient_name": "James",
+    "recipient_relationship": null,
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_027",
+    "occasion": "anniversary",
+    "predicted_date": "2026-11-27",
+    "confidence": "high",
+    "evidence": [
+      "Profile update saved anniversary for Sarah"
+    ],
+    "recipient_name": "Sarah",
+    "recipient_relationship": null,
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_022",
+    "occasion": "anniversary",
+    "predicted_date": "2026-10-01",
+    "confidence": "high",
+    "evidence": [
+      "Profile update saved anniversary for Mom"
+    ],
+    "recipient_name": "Mom",
+    "recipient_relationship": null,
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_031",
+    "occasion": "parent_birthday",
+    "predicted_date": "2026-11-11",
+    "confidence": "high",
+    "evidence": [
+      "Profile update saved parent_birthday for Fatima"
+    ],
+    "recipient_name": "Fatima",
+    "recipient_relationship": null,
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_035",
+    "occasion": "birthday",
+    "predicted_date": "2026-06-09",
+    "confidence": "high",
+    "evidence": [
+      "Profile update saved birthday for Sarah"
+    ],
+    "recipient_name": "Sarah",
+    "recipient_relationship": null,
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_039",
+    "occasion": "parent_birthday",
+    "predicted_date": "2026-07-01",
+    "confidence": "high",
+    "evidence": [
+      "Profile update saved parent_birthday for Fatima"
+    ],
+    "recipient_name": "Fatima",
+    "recipient_relationship": null,
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_037",
+    "occasion": "parent_birthday",
+    "predicted_date": "2026-09-13",
+    "confidence": "high",
+    "evidence": [
+      "Profile update saved parent_birthday for Layla"
+    ],
+    "recipient_name": "Layla",
+    "recipient_relationship": null,
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_018",
+    "occasion": "mothers_day",
+    "predicted_date": "2027-05-10",
+    "confidence": "medium",
+    "evidence": [
+      "3 historical order(s) detected",
+      "Recipient: Dad",
+      "Inferred relationship: father",
+      "Recurring seasonal gifting pattern detected"
+    ],
+    "recipient_name": "Dad",
+    "recipient_relationship": "father",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_018",
+    "occasion": "valentines",
+    "predicted_date": "2027-05-18",
+    "confidence": "medium",
+    "evidence": [
+      "4 historical order(s) detected",
+      "Recipient: Dad",
+      "Inferred relationship: father",
+      "Recurring seasonal gifting pattern detected"
+    ],
+    "recipient_name": "Dad",
+    "recipient_relationship": "father",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_018",
+    "occasion": "womens_day",
+    "predicted_date": "2027-03-08",
+    "confidence": "low",
+    "evidence": [
+      "2 historical order(s) detected",
+      "Recipient: Dad",
+      "Inferred relationship: father"
+    ],
+    "recipient_name": "Dad",
+    "recipient_relationship": "father",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_018",
+    "occasion": "diwali",
+    "predicted_date": "2026-12-12",
+    "confidence": "low",
+    "evidence": [
+      "1 historical order(s) detected",
+      "Recipient: Dad",
+      "Inferred relationship: father"
+    ],
+    "recipient_name": "Dad",
+    "recipient_relationship": "father",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_018",
+    "occasion": "birthday",
+    "predicted_date": "2027-03-11",
+    "confidence": "low",
+    "evidence": [
+      "1 historical order(s) detected",
+      "Recipient: Dad",
+      "Inferred relationship: father"
+    ],
+    "recipient_name": "Dad",
+    "recipient_relationship": "father",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_043",
+    "occasion": "anniversary",
+    "predicted_date": "2027-04-14",
+    "confidence": "low",
+    "evidence": [
+      "1 historical order(s) detected",
+      "Recipient: Layla",
+      "Inferred relationship: sister"
+    ],
+    "recipient_name": "Layla",
+    "recipient_relationship": "sister",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_043",
+    "occasion": "anniversary",
+    "predicted_date": "2026-09-12",
+    "confidence": "low",
+    "evidence": [
+      "1 historical order(s) detected",
+      "Recipient: Mom",
+      "Inferred relationship: mother"
+    ],
+    "recipient_name": "Mom",
+    "recipient_relationship": "mother",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_043",
+    "occasion": "new_born",
+    "predicted_date": "2027-01-21",
+    "confidence": "low",
+    "evidence": [
+      "1 historical order(s) detected",
+      "Recipient: Omar",
+      "Inferred relationship: brother"
+    ],
+    "recipient_name": "Omar",
+    "recipient_relationship": "brother",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_043",
+    "occasion": "graduation",
+    "predicted_date": "2027-02-21",
+    "confidence": "low",
+    "evidence": [
+      "1 historical order(s) detected",
+      "Recipient: James",
+      "Inferred relationship: colleague"
+    ],
+    "recipient_name": "James",
+    "recipient_relationship": "colleague",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_043",
+    "occasion": "eid",
+    "predicted_date": "2027-03-03",
+    "confidence": "low",
+    "evidence": [
+      "1 historical order(s) detected",
+      "Recipient: Dad",
+      "Inferred relationship: father"
+    ],
+    "recipient_name": "Dad",
+    "recipient_relationship": "father",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_043",
+    "occasion": "graduation",
+    "predicted_date": "2027-03-04",
+    "confidence": "low",
+    "evidence": [
+      "1 historical order(s) detected",
+      "Recipient: Omar",
+      "Inferred relationship: brother"
+    ],
+    "recipient_name": "Omar",
+    "recipient_relationship": "brother",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_043",
+    "occasion": "ramadan",
+    "predicted_date": "2027-05-12",
+    "confidence": "low",
+    "evidence": [
+      "1 historical order(s) detected",
+      "Recipient: Mom",
+      "Inferred relationship: mother"
+    ],
+    "recipient_name": "Mom",
+    "recipient_relationship": "mother",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_020",
+    "occasion": "womens_day",
+    "predicted_date": "2027-03-08",
+    "confidence": "medium",
+    "evidence": [
+      "3 historical order(s) detected",
+      "Recipient: Ahmed",
+      "Inferred relationship: friend",
+      "Recurring seasonal gifting pattern detected"
+    ],
+    "recipient_name": "Ahmed",
+    "recipient_relationship": "friend",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_020",
+    "occasion": "mothers_day",
+    "predicted_date": "2027-05-10",
+    "confidence": "low",
+    "evidence": [
+      "2 historical order(s) detected",
+      "Recipient: Ahmed",
+      "Inferred relationship: friend"
+    ],
+    "recipient_name": "Ahmed",
+    "recipient_relationship": "friend",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_020",
+    "occasion": "graduation",
+    "predicted_date": "2027-04-09",
+    "confidence": "low",
+    "evidence": [
+      "1 historical order(s) detected",
+      "Recipient: Ahmed",
+      "Inferred relationship: friend"
+    ],
+    "recipient_name": "Ahmed",
+    "recipient_relationship": "friend",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_010",
+    "occasion": "womens_day",
+    "predicted_date": "2027-03-08",
+    "confidence": "low",
+    "evidence": [
+      "2 historical order(s) detected",
+      "Recipient: Dad",
+      "Inferred relationship: father"
+    ],
+    "recipient_name": "Dad",
+    "recipient_relationship": "father",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_010",
+    "occasion": "mothers_day",
+    "predicted_date": "2027-05-10",
+    "confidence": "low",
+    "evidence": [
+      "2 historical order(s) detected",
+      "Recipient: Dad",
+      "Inferred relationship: father"
+    ],
+    "recipient_name": "Dad",
+    "recipient_relationship": "father",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_033",
+    "occasion": "eid",
+    "predicted_date": "2027-03-13",
+    "confidence": "low",
+    "evidence": [
+      "1 historical order(s) detected",
+      "Recipient: Mom",
+      "Inferred relationship: mother"
+    ],
+    "recipient_name": "Mom",
+    "recipient_relationship": "mother",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_033",
+    "occasion": "christmas",
+    "predicted_date": "2027-05-12",
+    "confidence": "low",
+    "evidence": [
+      "1 historical order(s) detected",
+      "Recipient: Mom",
+      "Inferred relationship: mother"
+    ],
+    "recipient_name": "Mom",
+    "recipient_relationship": "mother",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_033",
+    "occasion": "graduation",
+    "predicted_date": "2026-05-28",
+    "confidence": "low",
+    "evidence": [
+      "1 historical order(s) detected",
+      "Recipient: Mom",
+      "Inferred relationship: mother"
+    ],
+    "recipient_name": "Mom",
+    "recipient_relationship": "mother",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_033",
+    "occasion": "womens_day",
+    "predicted_date": "2027-02-26",
+    "confidence": "low",
+    "evidence": [
+      "1 historical order(s) detected",
+      "Recipient: Mom",
+      "Inferred relationship: mother"
+    ],
+    "recipient_name": "Mom",
+    "recipient_relationship": "mother",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_036",
+    "occasion": "love_romance",
+    "predicted_date": "2026-06-26",
+    "confidence": "low",
+    "evidence": [
+      "1 historical order(s) detected",
+      "Recipient: Omar",
+      "Inferred relationship: brother"
+    ],
+    "recipient_name": "Omar",
+    "recipient_relationship": "brother",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_024",
+    "occasion": "love_romance",
+    "predicted_date": "2027-02-14",
+    "confidence": "low",
+    "evidence": [
+      "1 historical order(s) detected",
+      "Recipient: James",
+      "Inferred relationship: colleague"
+    ],
+    "recipient_name": "James",
+    "recipient_relationship": "colleague",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_024",
+    "occasion": "eid",
+    "predicted_date": "2027-03-08",
+    "confidence": "low",
+    "evidence": [
+      "1 historical order(s) detected",
+      "Recipient: James",
+      "Inferred relationship: colleague"
+    ],
+    "recipient_name": "James",
+    "recipient_relationship": "colleague",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_024",
+    "occasion": "valentines",
+    "predicted_date": "2026-09-17",
+    "confidence": "low",
+    "evidence": [
+      "1 historical order(s) detected",
+      "Recipient: James",
+      "Inferred relationship: colleague"
+    ],
+    "recipient_name": "James",
+    "recipient_relationship": "colleague",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_013",
+    "occasion": "corporate",
+    "predicted_date": "2027-03-03",
+    "confidence": "low",
+    "evidence": [
+      "1 historical order(s) detected",
+      "Recipient: Layla",
+      "Inferred relationship: sister"
+    ],
+    "recipient_name": "Layla",
+    "recipient_relationship": "sister",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_013",
+    "occasion": "womens_day",
+    "predicted_date": "2027-03-08",
+    "confidence": "medium",
+    "evidence": [
+      "3 historical order(s) detected",
+      "Recipient: Layla",
+      "Inferred relationship: sister",
+      "Recurring seasonal gifting pattern detected"
+    ],
+    "recipient_name": "Layla",
+    "recipient_relationship": "sister",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_013",
+    "occasion": "mothers_day",
+    "predicted_date": "2027-05-10",
+    "confidence": "low",
+    "evidence": [
+      "2 historical order(s) detected",
+      "Recipient: Layla",
+      "Inferred relationship: sister"
+    ],
+    "recipient_name": "Layla",
+    "recipient_relationship": "sister",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_017",
+    "occasion": "womens_day",
+    "predicted_date": "2027-03-08",
+    "confidence": "low",
+    "evidence": [
+      "2 historical order(s) detected",
+      "Recipient: Mom",
+      "Inferred relationship: mother"
+    ],
+    "recipient_name": "Mom",
+    "recipient_relationship": "mother",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_017",
+    "occasion": "diwali",
+    "predicted_date": "2027-03-21",
+    "confidence": "low",
+    "evidence": [
+      "1 historical order(s) detected",
+      "Recipient: Mom",
+      "Inferred relationship: mother"
+    ],
+    "recipient_name": "Mom",
+    "recipient_relationship": "mother",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_017",
+    "occasion": "mothers_day",
+    "predicted_date": "2027-05-10",
+    "confidence": "low",
+    "evidence": [
+      "2 historical order(s) detected",
+      "Recipient: Mom",
+      "Inferred relationship: mother"
+    ],
+    "recipient_name": "Mom",
+    "recipient_relationship": "mother",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_017",
+    "occasion": "christmas",
+    "predicted_date": "2027-02-10",
+    "confidence": "low",
+    "evidence": [
+      "1 historical order(s) detected",
+      "Recipient: Mom",
+      "Inferred relationship: mother"
+    ],
+    "recipient_name": "Mom",
+    "recipient_relationship": "mother",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_014",
+    "occasion": "womens_day",
+    "predicted_date": "2027-03-08",
+    "confidence": "medium",
+    "evidence": [
+      "3 historical order(s) detected",
+      "Recipient: Omar",
+      "Inferred relationship: brother",
+      "Recurring seasonal gifting pattern detected"
+    ],
+    "recipient_name": "Omar",
+    "recipient_relationship": "brother",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_014",
+    "occasion": "mothers_day",
+    "predicted_date": "2027-05-10",
+    "confidence": "medium",
+    "evidence": [
+      "3 historical order(s) detected",
+      "Recipient: Omar",
+      "Inferred relationship: brother",
+      "Recurring seasonal gifting pattern detected"
+    ],
+    "recipient_name": "Omar",
+    "recipient_relationship": "brother",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_011",
+    "occasion": "womens_day",
+    "predicted_date": "2027-03-08",
+    "confidence": "medium",
+    "evidence": [
+      "3 historical order(s) detected",
+      "Recipient: Sarah",
+      "Inferred relationship: partner",
+      "Recurring seasonal gifting pattern detected"
+    ],
+    "recipient_name": "Sarah",
+    "recipient_relationship": "partner",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_011",
+    "occasion": "mothers_day",
+    "predicted_date": "2027-05-10",
+    "confidence": "low",
+    "evidence": [
+      "2 historical order(s) detected",
+      "Recipient: Sarah",
+      "Inferred relationship: partner"
+    ],
+    "recipient_name": "Sarah",
+    "recipient_relationship": "partner",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_011",
+    "occasion": "diwali",
+    "predicted_date": "2026-06-06",
+    "confidence": "low",
+    "evidence": [
+      "1 historical order(s) detected",
+      "Recipient: Sarah",
+      "Inferred relationship: partner"
+    ],
+    "recipient_name": "Sarah",
+    "recipient_relationship": "partner",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_011",
+    "occasion": "love_romance",
+    "predicted_date": "2026-06-08",
+    "confidence": "low",
+    "evidence": [
+      "1 historical order(s) detected",
+      "Recipient: Sarah",
+      "Inferred relationship: partner"
+    ],
+    "recipient_name": "Sarah",
+    "recipient_relationship": "partner",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_011",
+    "occasion": "eid",
+    "predicted_date": "2026-06-18",
+    "confidence": "low",
+    "evidence": [
+      "1 historical order(s) detected",
+      "Recipient: Sarah",
+      "Inferred relationship: partner"
+    ],
+    "recipient_name": "Sarah",
+    "recipient_relationship": "partner",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_011",
+    "occasion": "corporate",
+    "predicted_date": "2026-11-24",
+    "confidence": "low",
+    "evidence": [
+      "1 historical order(s) detected",
+      "Recipient: Sarah",
+      "Inferred relationship: partner"
+    ],
+    "recipient_name": "Sarah",
+    "recipient_relationship": "partner",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_019",
+    "occasion": "womens_day",
+    "predicted_date": "2027-03-08",
+    "confidence": "low",
+    "evidence": [
+      "2 historical order(s) detected",
+      "Recipient: Sarah",
+      "Inferred relationship: partner"
+    ],
+    "recipient_name": "Sarah",
+    "recipient_relationship": "partner",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_019",
+    "occasion": "mothers_day",
+    "predicted_date": "2027-05-10",
+    "confidence": "low",
+    "evidence": [
+      "2 historical order(s) detected",
+      "Recipient: Sarah",
+      "Inferred relationship: partner"
+    ],
+    "recipient_name": "Sarah",
+    "recipient_relationship": "partner",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_008",
+    "occasion": "womens_day",
+    "predicted_date": "2027-03-08",
+    "confidence": "low",
+    "evidence": [
+      "2 historical order(s) detected",
+      "Recipient: Mom",
+      "Inferred relationship: mother"
+    ],
+    "recipient_name": "Mom",
+    "recipient_relationship": "mother",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_008",
+    "occasion": "ramadan",
+    "predicted_date": "2027-03-09",
+    "confidence": "low",
+    "evidence": [
+      "1 historical order(s) detected",
+      "Recipient: Fatima",
+      "Inferred relationship: wife"
+    ],
+    "recipient_name": "Fatima",
+    "recipient_relationship": "wife",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_008",
+    "occasion": "mothers_day",
+    "predicted_date": "2027-05-10",
+    "confidence": "low",
+    "evidence": [
+      "2 historical order(s) detected",
+      "Recipient: Mom",
+      "Inferred relationship: mother"
+    ],
+    "recipient_name": "Mom",
+    "recipient_relationship": "mother",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_008",
+    "occasion": "thank_you",
+    "predicted_date": "2026-06-11",
+    "confidence": "low",
+    "evidence": [
+      "1 historical order(s) detected",
+      "Recipient: Sarah",
+      "Inferred relationship: partner"
+    ],
+    "recipient_name": "Sarah",
+    "recipient_relationship": "partner",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_008",
+    "occasion": "corporate",
+    "predicted_date": "2027-02-24",
+    "confidence": "low",
+    "evidence": [
+      "1 historical order(s) detected",
+      "Recipient: Omar",
+      "Inferred relationship: brother"
+    ],
+    "recipient_name": "Omar",
+    "recipient_relationship": "brother",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_008",
+    "occasion": "corporate",
+    "predicted_date": "2027-03-08",
+    "confidence": "low",
+    "evidence": [
+      "1 historical order(s) detected",
+      "Recipient: James",
+      "Inferred relationship: colleague"
+    ],
+    "recipient_name": "James",
+    "recipient_relationship": "colleague",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_015",
+    "occasion": "womens_day",
+    "predicted_date": "2027-03-08",
+    "confidence": "low",
+    "evidence": [
+      "2 historical order(s) detected",
+      "Recipient: Mom",
+      "Inferred relationship: mother"
+    ],
+    "recipient_name": "Mom",
+    "recipient_relationship": "mother",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_015",
+    "occasion": "mothers_day",
+    "predicted_date": "2027-05-10",
+    "confidence": "low",
+    "evidence": [
+      "2 historical order(s) detected",
+      "Recipient: Mom",
+      "Inferred relationship: mother"
+    ],
+    "recipient_name": "Mom",
+    "recipient_relationship": "mother",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_015",
+    "occasion": "corporate",
+    "predicted_date": "2026-11-27",
+    "confidence": "low",
+    "evidence": [
+      "1 historical order(s) detected",
+      "Recipient: Dad",
+      "Inferred relationship: father"
+    ],
+    "recipient_name": "Dad",
+    "recipient_relationship": "father",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_005",
+    "occasion": "womens_day",
+    "predicted_date": "2027-03-08",
+    "confidence": "low",
+    "evidence": [
+      "2 historical order(s) detected",
+      "Recipient: Layla",
+      "Inferred relationship: sister"
+    ],
+    "recipient_name": "Layla",
+    "recipient_relationship": "sister",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_005",
+    "occasion": "birthday",
+    "predicted_date": "2027-03-08",
+    "confidence": "low",
+    "evidence": [
+      "1 historical order(s) detected",
+      "Recipient: Layla",
+      "Inferred relationship: sister"
+    ],
+    "recipient_name": "Layla",
+    "recipient_relationship": "sister",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_005",
+    "occasion": "mothers_day",
+    "predicted_date": "2027-05-10",
+    "confidence": "low",
+    "evidence": [
+      "2 historical order(s) detected",
+      "Recipient: Layla",
+      "Inferred relationship: sister"
+    ],
+    "recipient_name": "Layla",
+    "recipient_relationship": "sister",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_005",
+    "occasion": "diwali",
+    "predicted_date": "2026-07-28",
+    "confidence": "low",
+    "evidence": [
+      "1 historical order(s) detected",
+      "Recipient: Layla",
+      "Inferred relationship: sister"
+    ],
+    "recipient_name": "Layla",
+    "recipient_relationship": "sister",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_007",
+    "occasion": "womens_day",
+    "predicted_date": "2027-03-08",
+    "confidence": "medium",
+    "evidence": [
+      "4 historical order(s) detected",
+      "Recipient: Fatima",
+      "Inferred relationship: wife",
+      "Recurring seasonal gifting pattern detected"
+    ],
+    "recipient_name": "Fatima",
+    "recipient_relationship": "wife",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_007",
+    "occasion": "corporate",
+    "predicted_date": "2027-04-19",
+    "confidence": "low",
+    "evidence": [
+      "1 historical order(s) detected",
+      "Recipient: Fatima",
+      "Inferred relationship: wife"
+    ],
+    "recipient_name": "Fatima",
+    "recipient_relationship": "wife",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_007",
+    "occasion": "mothers_day",
+    "predicted_date": "2027-05-10",
+    "confidence": "low",
+    "evidence": [
+      "2 historical order(s) detected",
+      "Recipient: Fatima",
+      "Inferred relationship: wife"
+    ],
+    "recipient_name": "Fatima",
+    "recipient_relationship": "wife",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_007",
+    "occasion": "new_born",
+    "predicted_date": "2026-09-07",
+    "confidence": "low",
+    "evidence": [
+      "1 historical order(s) detected",
+      "Recipient: Fatima",
+      "Inferred relationship: wife"
+    ],
+    "recipient_name": "Fatima",
+    "recipient_relationship": "wife",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_007",
+    "occasion": "ramadan",
+    "predicted_date": "2027-03-08",
+    "confidence": "low",
+    "evidence": [
+      "1 historical order(s) detected",
+      "Recipient: Fatima",
+      "Inferred relationship: wife"
+    ],
+    "recipient_name": "Fatima",
+    "recipient_relationship": "wife",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_007",
+    "occasion": "valentines",
+    "predicted_date": "2027-04-18",
+    "confidence": "low",
+    "evidence": [
+      "1 historical order(s) detected",
+      "Recipient: Fatima",
+      "Inferred relationship: wife"
+    ],
+    "recipient_name": "Fatima",
+    "recipient_relationship": "wife",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_004",
+    "occasion": "womens_day",
+    "predicted_date": "2027-03-08",
+    "confidence": "low",
+    "evidence": [
+      "2 historical order(s) detected",
+      "Recipient: Ahmed",
+      "Inferred relationship: friend"
+    ],
+    "recipient_name": "Ahmed",
+    "recipient_relationship": "friend",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_004",
+    "occasion": "mothers_day",
+    "predicted_date": "2027-05-10",
+    "confidence": "low",
+    "evidence": [
+      "2 historical order(s) detected",
+      "Recipient: Ahmed",
+      "Inferred relationship: friend"
+    ],
+    "recipient_name": "Ahmed",
+    "recipient_relationship": "friend",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_002",
+    "occasion": "womens_day",
+    "predicted_date": "2027-03-08",
+    "confidence": "low",
+    "evidence": [
+      "2 historical order(s) detected",
+      "Recipient: Dad",
+      "Inferred relationship: father"
+    ],
+    "recipient_name": "Dad",
+    "recipient_relationship": "father",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_002",
+    "occasion": "mothers_day",
+    "predicted_date": "2027-05-10",
+    "confidence": "low",
+    "evidence": [
+      "2 historical order(s) detected",
+      "Recipient: Dad",
+      "Inferred relationship: father"
+    ],
+    "recipient_name": "Dad",
+    "recipient_relationship": "father",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_002",
+    "occasion": "graduation",
+    "predicted_date": "2026-08-20",
+    "confidence": "low",
+    "evidence": [
+      "1 historical order(s) detected",
+      "Recipient: Dad",
+      "Inferred relationship: father"
+    ],
+    "recipient_name": "Dad",
+    "recipient_relationship": "father",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_003",
+    "occasion": "womens_day",
+    "predicted_date": "2027-03-08",
+    "confidence": "low",
+    "evidence": [
+      "2 historical order(s) detected",
+      "Recipient: Sarah",
+      "Inferred relationship: partner"
+    ],
+    "recipient_name": "Sarah",
+    "recipient_relationship": "partner",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_003",
+    "occasion": "mothers_day",
+    "predicted_date": "2027-05-10",
+    "confidence": "low",
+    "evidence": [
+      "2 historical order(s) detected",
+      "Recipient: Sarah",
+      "Inferred relationship: partner"
+    ],
+    "recipient_name": "Sarah",
+    "recipient_relationship": "partner",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_003",
+    "occasion": "diwali",
+    "predicted_date": "2026-07-03",
+    "confidence": "low",
+    "evidence": [
+      "1 historical order(s) detected",
+      "Recipient: Sarah",
+      "Inferred relationship: partner"
+    ],
+    "recipient_name": "Sarah",
+    "recipient_relationship": "partner",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_003",
+    "occasion": "love_romance",
+    "predicted_date": "2027-05-18",
+    "confidence": "low",
+    "evidence": [
+      "1 historical order(s) detected",
+      "Recipient: Sarah",
+      "Inferred relationship: partner"
+    ],
+    "recipient_name": "Sarah",
+    "recipient_relationship": "partner",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_016",
+    "occasion": "womens_day",
+    "predicted_date": "2027-03-08",
+    "confidence": "low",
+    "evidence": [
+      "2 historical order(s) detected",
+      "Recipient: James",
+      "Inferred relationship: colleague"
+    ],
+    "recipient_name": "James",
+    "recipient_relationship": "colleague",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_016",
+    "occasion": "mothers_day",
+    "predicted_date": "2027-05-10",
+    "confidence": "low",
+    "evidence": [
+      "2 historical order(s) detected",
+      "Recipient: James",
+      "Inferred relationship: colleague"
+    ],
+    "recipient_name": "James",
+    "recipient_relationship": "colleague",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_016",
+    "occasion": "ramadan",
+    "predicted_date": "2026-12-23",
+    "confidence": "low",
+    "evidence": [
+      "1 historical order(s) detected",
+      "Recipient: James",
+      "Inferred relationship: colleague"
+    ],
+    "recipient_name": "James",
+    "recipient_relationship": "colleague",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_016",
+    "occasion": "diwali",
+    "predicted_date": "2027-01-28",
+    "confidence": "low",
+    "evidence": [
+      "1 historical order(s) detected",
+      "Recipient: James",
+      "Inferred relationship: colleague"
+    ],
+    "recipient_name": "James",
+    "recipient_relationship": "colleague",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_016",
+    "occasion": "valentines",
+    "predicted_date": "2027-03-08",
+    "confidence": "low",
+    "evidence": [
+      "1 historical order(s) detected",
+      "Recipient: James",
+      "Inferred relationship: colleague"
+    ],
+    "recipient_name": "James",
+    "recipient_relationship": "colleague",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_001",
+    "occasion": "womens_day",
+    "predicted_date": "2027-03-08",
+    "confidence": "low",
+    "evidence": [
+      "2 historical order(s) detected",
+      "Recipient: Mom",
+      "Inferred relationship: mother"
+    ],
+    "recipient_name": "Mom",
+    "recipient_relationship": "mother",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_001",
+    "occasion": "mothers_day",
+    "predicted_date": "2027-05-10",
+    "confidence": "low",
+    "evidence": [
+      "2 historical order(s) detected",
+      "Recipient: Mom",
+      "Inferred relationship: mother"
+    ],
+    "recipient_name": "Mom",
+    "recipient_relationship": "mother",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_009",
+    "occasion": "womens_day",
+    "predicted_date": "2027-03-08",
+    "confidence": "low",
+    "evidence": [
+      "2 historical order(s) detected",
+      "Recipient: Mom",
+      "Inferred relationship: mother"
+    ],
+    "recipient_name": "Mom",
+    "recipient_relationship": "mother",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_009",
+    "occasion": "mothers_day",
+    "predicted_date": "2027-05-10",
+    "confidence": "low",
+    "evidence": [
+      "2 historical order(s) detected",
+      "Recipient: Mom",
+      "Inferred relationship: mother"
+    ],
+    "recipient_name": "Mom",
+    "recipient_relationship": "mother",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_009",
+    "occasion": "anniversary",
+    "predicted_date": "2026-11-01",
+    "confidence": "medium",
+    "evidence": [
+      "2 historical order(s) detected",
+      "Recipient: Mom",
+      "Inferred relationship: mother",
+      "Recurring seasonal gifting pattern detected"
+    ],
+    "recipient_name": "Mom",
+    "recipient_relationship": "mother",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_012",
+    "occasion": "womens_day",
+    "predicted_date": "2027-03-08",
+    "confidence": "low",
+    "evidence": [
+      "2 historical order(s) detected",
+      "Recipient: Ahmed",
+      "Inferred relationship: friend"
+    ],
+    "recipient_name": "Ahmed",
+    "recipient_relationship": "friend",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_012",
+    "occasion": "mothers_day",
+    "predicted_date": "2027-05-10",
+    "confidence": "low",
+    "evidence": [
+      "2 historical order(s) detected",
+      "Recipient: Ahmed",
+      "Inferred relationship: friend"
+    ],
+    "recipient_name": "Ahmed",
+    "recipient_relationship": "friend",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_012",
+    "occasion": "christmas",
+    "predicted_date": "2027-05-20",
+    "confidence": "low",
+    "evidence": [
+      "1 historical order(s) detected",
+      "Recipient: Ahmed",
+      "Inferred relationship: friend"
+    ],
+    "recipient_name": "Ahmed",
+    "recipient_relationship": "friend",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_023",
+    "occasion": "valentines",
+    "predicted_date": "2027-03-10",
+    "confidence": "low",
+    "evidence": [
+      "1 historical order(s) detected",
+      "Recipient: Fatima",
+      "Inferred relationship: wife"
+    ],
+    "recipient_name": "Fatima",
+    "recipient_relationship": "wife",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_034",
+    "occasion": "corporate",
+    "predicted_date": "2026-06-08",
+    "confidence": "low",
+    "evidence": [
+      "1 historical order(s) detected",
+      "Recipient: Dad",
+      "Inferred relationship: father"
+    ],
+    "recipient_name": "Dad",
+    "recipient_relationship": "father",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_006",
+    "occasion": "womens_day",
+    "predicted_date": "2027-03-08",
+    "confidence": "low",
+    "evidence": [
+      "2 historical order(s) detected",
+      "Recipient: Omar",
+      "Inferred relationship: brother"
+    ],
+    "recipient_name": "Omar",
+    "recipient_relationship": "brother",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_006",
+    "occasion": "mothers_day",
+    "predicted_date": "2027-05-10",
+    "confidence": "low",
+    "evidence": [
+      "2 historical order(s) detected",
+      "Recipient: Omar",
+      "Inferred relationship: brother"
+    ],
+    "recipient_name": "Omar",
+    "recipient_relationship": "brother",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_006",
+    "occasion": "birthday",
+    "predicted_date": "2026-06-01",
+    "confidence": "low",
+    "evidence": [
+      "1 historical order(s) detected",
+      "Recipient: Omar",
+      "Inferred relationship: brother"
+    ],
+    "recipient_name": "Omar",
+    "recipient_relationship": "brother",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_026",
+    "occasion": "new_born",
+    "predicted_date": "2026-10-26",
+    "confidence": "low",
+    "evidence": [
+      "1 historical order(s) detected",
+      "Recipient: Dad",
+      "Inferred relationship: father"
+    ],
+    "recipient_name": "Dad",
+    "recipient_relationship": "father",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_040",
+    "occasion": "love_romance",
+    "predicted_date": "2027-04-06",
+    "confidence": "low",
+    "evidence": [
+      "1 historical order(s) detected",
+      "Recipient: James",
+      "Inferred relationship: colleague"
+    ],
+    "recipient_name": "James",
+    "recipient_relationship": "colleague",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_040",
+    "occasion": "thank_you",
+    "predicted_date": "2027-02-09",
+    "confidence": "medium",
+    "evidence": [
+      "2 historical order(s) detected",
+      "Recipient: James",
+      "Inferred relationship: colleague",
+      "Recurring seasonal gifting pattern detected"
+    ],
+    "recipient_name": "James",
+    "recipient_relationship": "colleague",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_040",
+    "occasion": "anniversary",
+    "predicted_date": "2026-11-28",
+    "confidence": "low",
+    "evidence": [
+      "1 historical order(s) detected",
+      "Recipient: James",
+      "Inferred relationship: colleague"
+    ],
+    "recipient_name": "James",
+    "recipient_relationship": "colleague",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_029",
+    "occasion": "ramadan",
+    "predicted_date": "2027-03-11",
+    "confidence": "low",
+    "evidence": [
+      "1 historical order(s) detected",
+      "Recipient: Fatima",
+      "Inferred relationship: wife"
+    ],
+    "recipient_name": "Fatima",
+    "recipient_relationship": "wife",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_029",
+    "occasion": "thank_you",
+    "predicted_date": "2027-05-13",
+    "confidence": "low",
+    "evidence": [
+      "1 historical order(s) detected",
+      "Recipient: Dad",
+      "Inferred relationship: father"
+    ],
+    "recipient_name": "Dad",
+    "recipient_relationship": "father",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_029",
+    "occasion": "womens_day",
+    "predicted_date": "2026-11-03",
+    "confidence": "low",
+    "evidence": [
+      "1 historical order(s) detected",
+      "Recipient: Ahmed",
+      "Inferred relationship: friend"
+    ],
+    "recipient_name": "Ahmed",
+    "recipient_relationship": "friend",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_030",
+    "occasion": "diwali",
+    "predicted_date": "2027-04-10",
+    "confidence": "low",
+    "evidence": [
+      "1 historical order(s) detected",
+      "Recipient: Omar",
+      "Inferred relationship: brother"
+    ],
+    "recipient_name": "Omar",
+    "recipient_relationship": "brother",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_030",
+    "occasion": "christmas",
+    "predicted_date": "2026-07-18",
+    "confidence": "low",
+    "evidence": [
+      "1 historical order(s) detected",
+      "Recipient: Omar",
+      "Inferred relationship: brother"
+    ],
+    "recipient_name": "Omar",
+    "recipient_relationship": "brother",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_030",
+    "occasion": "womens_day",
+    "predicted_date": "2027-01-02",
+    "confidence": "low",
+    "evidence": [
+      "1 historical order(s) detected",
+      "Recipient: Omar",
+      "Inferred relationship: brother"
+    ],
+    "recipient_name": "Omar",
+    "recipient_relationship": "brother",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_025",
+    "occasion": "diwali",
+    "predicted_date": "2027-04-03",
+    "confidence": "low",
+    "evidence": [
+      "1 historical order(s) detected",
+      "Recipient: Mom",
+      "Inferred relationship: mother"
+    ],
+    "recipient_name": "Mom",
+    "recipient_relationship": "mother",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_025",
+    "occasion": "christmas",
+    "predicted_date": "2026-10-19",
+    "confidence": "low",
+    "evidence": [
+      "1 historical order(s) detected",
+      "Recipient: Mom",
+      "Inferred relationship: mother"
+    ],
+    "recipient_name": "Mom",
+    "recipient_relationship": "mother",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_025",
+    "occasion": "love_romance",
+    "predicted_date": "2027-03-08",
+    "confidence": "low",
+    "evidence": [
+      "1 historical order(s) detected",
+      "Recipient: Mom",
+      "Inferred relationship: mother"
+    ],
+    "recipient_name": "Mom",
+    "recipient_relationship": "mother",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_038",
+    "occasion": "eid",
+    "predicted_date": "2027-03-28",
+    "confidence": "low",
+    "evidence": [
+      "1 historical order(s) detected",
+      "Recipient: Omar",
+      "Inferred relationship: brother"
+    ],
+    "recipient_name": "Omar",
+    "recipient_relationship": "brother",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_038",
+    "occasion": "womens_day",
+    "predicted_date": "2027-04-03",
+    "confidence": "low",
+    "evidence": [
+      "1 historical order(s) detected",
+      "Recipient: Omar",
+      "Inferred relationship: brother"
+    ],
+    "recipient_name": "Omar",
+    "recipient_relationship": "brother",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_038",
+    "occasion": "corporate",
+    "predicted_date": "2027-05-03",
+    "confidence": "low",
+    "evidence": [
+      "1 historical order(s) detected",
+      "Recipient: Omar",
+      "Inferred relationship: brother"
+    ],
+    "recipient_name": "Omar",
+    "recipient_relationship": "brother",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_027",
+    "occasion": "thank_you",
+    "predicted_date": "2027-03-08",
+    "confidence": "medium",
+    "evidence": [
+      "2 historical order(s) detected",
+      "Recipient: Sarah",
+      "Inferred relationship: partner",
+      "Recurring seasonal gifting pattern detected"
+    ],
+    "recipient_name": "Sarah",
+    "recipient_relationship": "partner",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_022",
+    "occasion": "valentines",
+    "predicted_date": "2027-04-28",
+    "confidence": "low",
+    "evidence": [
+      "1 historical order(s) detected",
+      "Recipient: Mom",
+      "Inferred relationship: mother"
+    ],
+    "recipient_name": "Mom",
+    "recipient_relationship": "mother",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_022",
+    "occasion": "christmas",
+    "predicted_date": "2026-12-02",
+    "confidence": "low",
+    "evidence": [
+      "1 historical order(s) detected",
+      "Recipient: Fatima",
+      "Inferred relationship: wife"
+    ],
+    "recipient_name": "Fatima",
+    "recipient_relationship": "wife",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_022",
+    "occasion": "thank_you",
+    "predicted_date": "2026-12-24",
+    "confidence": "low",
+    "evidence": [
+      "1 historical order(s) detected",
+      "Recipient: Omar",
+      "Inferred relationship: brother"
+    ],
+    "recipient_name": "Omar",
+    "recipient_relationship": "brother",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_022",
+    "occasion": "love_romance",
+    "predicted_date": "2027-02-21",
+    "confidence": "low",
+    "evidence": [
+      "1 historical order(s) detected",
+      "Recipient: Mom",
+      "Inferred relationship: mother"
+    ],
+    "recipient_name": "Mom",
+    "recipient_relationship": "mother",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_042",
+    "occasion": "eid",
+    "predicted_date": "2027-03-03",
+    "confidence": "low",
+    "evidence": [
+      "1 historical order(s) detected",
+      "Recipient: Dad",
+      "Inferred relationship: father"
+    ],
+    "recipient_name": "Dad",
+    "recipient_relationship": "father",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_042",
+    "occasion": "ramadan",
+    "predicted_date": "2027-04-21",
+    "confidence": "low",
+    "evidence": [
+      "1 historical order(s) detected",
+      "Recipient: Dad",
+      "Inferred relationship: father"
+    ],
+    "recipient_name": "Dad",
+    "recipient_relationship": "father",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_045",
+    "occasion": "thank_you",
+    "predicted_date": "2027-05-11",
+    "confidence": "low",
+    "evidence": [
+      "1 historical order(s) detected",
+      "Recipient: Layla",
+      "Inferred relationship: sister"
+    ],
+    "recipient_name": "Layla",
+    "recipient_relationship": "sister",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_031",
+    "occasion": "christmas",
+    "predicted_date": "2027-05-12",
+    "confidence": "low",
+    "evidence": [
+      "1 historical order(s) detected",
+      "Recipient: Fatima",
+      "Inferred relationship: wife"
+    ],
+    "recipient_name": "Fatima",
+    "recipient_relationship": "wife",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_035",
+    "occasion": "thank_you",
+    "predicted_date": "2026-06-11",
+    "confidence": "low",
+    "evidence": [
+      "1 historical order(s) detected",
+      "Recipient: Sarah",
+      "Inferred relationship: partner"
+    ],
+    "recipient_name": "Sarah",
+    "recipient_relationship": "partner",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_035",
+    "occasion": "christmas",
+    "predicted_date": "2026-07-02",
+    "confidence": "low",
+    "evidence": [
+      "1 historical order(s) detected",
+      "Recipient: Sarah",
+      "Inferred relationship: partner"
+    ],
+    "recipient_name": "Sarah",
+    "recipient_relationship": "partner",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_035",
+    "occasion": "womens_day",
+    "predicted_date": "2026-07-17",
+    "confidence": "low",
+    "evidence": [
+      "1 historical order(s) detected",
+      "Recipient: Sarah",
+      "Inferred relationship: partner"
+    ],
+    "recipient_name": "Sarah",
+    "recipient_relationship": "partner",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_035",
+    "occasion": "new_born",
+    "predicted_date": "2026-10-20",
+    "confidence": "low",
+    "evidence": [
+      "1 historical order(s) detected",
+      "Recipient: Sarah",
+      "Inferred relationship: partner"
+    ],
+    "recipient_name": "Sarah",
+    "recipient_relationship": "partner",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_035",
+    "occasion": "graduation",
+    "predicted_date": "2026-12-19",
+    "confidence": "low",
+    "evidence": [
+      "1 historical order(s) detected",
+      "Recipient: Sarah",
+      "Inferred relationship: partner"
+    ],
+    "recipient_name": "Sarah",
+    "recipient_relationship": "partner",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_039",
+    "occasion": "valentines",
+    "predicted_date": "2027-05-11",
+    "confidence": "low",
+    "evidence": [
+      "1 historical order(s) detected",
+      "Recipient: Fatima",
+      "Inferred relationship: wife"
+    ],
+    "recipient_name": "Fatima",
+    "recipient_relationship": "wife",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_041",
+    "occasion": "thank_you",
+    "predicted_date": "2027-03-17",
+    "confidence": "low",
+    "evidence": [
+      "1 historical order(s) detected",
+      "Recipient: Mom",
+      "Inferred relationship: mother"
+    ],
+    "recipient_name": "Mom",
+    "recipient_relationship": "mother",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_041",
+    "occasion": "love_romance",
+    "predicted_date": "2027-04-01",
+    "confidence": "low",
+    "evidence": [
+      "1 historical order(s) detected",
+      "Recipient: Mom",
+      "Inferred relationship: mother"
+    ],
+    "recipient_name": "Mom",
+    "recipient_relationship": "mother",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_041",
+    "occasion": "birthday",
+    "predicted_date": "2027-05-12",
+    "confidence": "low",
+    "evidence": [
+      "1 historical order(s) detected",
+      "Recipient: Mom",
+      "Inferred relationship: mother"
+    ],
+    "recipient_name": "Mom",
+    "recipient_relationship": "mother",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_044",
+    "occasion": "love_romance",
+    "predicted_date": "2026-11-22",
+    "confidence": "low",
+    "evidence": [
+      "1 historical order(s) detected",
+      "Recipient: Ahmed",
+      "Inferred relationship: friend"
+    ],
+    "recipient_name": "Ahmed",
+    "recipient_relationship": "friend",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_044",
+    "occasion": "anniversary",
+    "predicted_date": "2027-04-23",
+    "confidence": "low",
+    "evidence": [
+      "1 historical order(s) detected",
+      "Recipient: Ahmed",
+      "Inferred relationship: friend"
+    ],
+    "recipient_name": "Ahmed",
+    "recipient_relationship": "friend",
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_018",
+    "occasion": "eid_al_fitr",
+    "predicted_date": "2027-03-09",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_fitr"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_018",
+    "occasion": "eid_al_adha",
+    "predicted_date": "2026-05-27",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_adha"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_028",
+    "occasion": "eid_al_fitr",
+    "predicted_date": "2027-03-09",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_fitr"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_028",
+    "occasion": "eid_al_adha",
+    "predicted_date": "2026-05-27",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_adha"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_043",
+    "occasion": "eid_al_fitr",
+    "predicted_date": "2027-03-09",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_fitr"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_043",
+    "occasion": "eid_al_adha",
+    "predicted_date": "2026-05-27",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_adha"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_020",
+    "occasion": "eid_al_fitr",
+    "predicted_date": "2027-03-09",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_fitr"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_020",
+    "occasion": "eid_al_adha",
+    "predicted_date": "2026-05-27",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_adha"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_010",
+    "occasion": "eid_al_fitr",
+    "predicted_date": "2027-03-09",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_fitr"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_010",
+    "occasion": "eid_al_adha",
+    "predicted_date": "2026-05-27",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_adha"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_033",
+    "occasion": "eid_al_fitr",
+    "predicted_date": "2027-03-09",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_fitr"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_033",
+    "occasion": "eid_al_adha",
+    "predicted_date": "2026-05-27",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_adha"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_036",
+    "occasion": "eid_al_fitr",
+    "predicted_date": "2027-03-09",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_fitr"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_036",
+    "occasion": "eid_al_adha",
+    "predicted_date": "2026-05-27",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_adha"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_024",
+    "occasion": "eid_al_fitr",
+    "predicted_date": "2027-03-09",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_fitr"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_024",
+    "occasion": "eid_al_adha",
+    "predicted_date": "2026-05-27",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_adha"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_048",
+    "occasion": "eid_al_fitr",
+    "predicted_date": "2027-03-09",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_fitr"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_048",
+    "occasion": "eid_al_adha",
+    "predicted_date": "2026-05-27",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_adha"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_013",
+    "occasion": "eid_al_fitr",
+    "predicted_date": "2027-03-09",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_fitr"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_013",
+    "occasion": "eid_al_adha",
+    "predicted_date": "2026-05-27",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_adha"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_017",
+    "occasion": "eid_al_fitr",
+    "predicted_date": "2027-03-09",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_fitr"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_017",
+    "occasion": "eid_al_adha",
+    "predicted_date": "2026-05-27",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_adha"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_014",
+    "occasion": "eid_al_fitr",
+    "predicted_date": "2027-03-09",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_fitr"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_014",
+    "occasion": "eid_al_adha",
+    "predicted_date": "2026-05-27",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_adha"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_011",
+    "occasion": "eid_al_fitr",
+    "predicted_date": "2027-03-09",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_fitr"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_011",
+    "occasion": "eid_al_adha",
+    "predicted_date": "2026-05-27",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_adha"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_019",
+    "occasion": "eid_al_fitr",
+    "predicted_date": "2027-03-09",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_fitr"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_019",
+    "occasion": "eid_al_adha",
+    "predicted_date": "2026-05-27",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_adha"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_008",
+    "occasion": "eid_al_fitr",
+    "predicted_date": "2027-03-09",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_fitr"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_008",
+    "occasion": "eid_al_adha",
+    "predicted_date": "2026-05-27",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_adha"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_015",
+    "occasion": "eid_al_fitr",
+    "predicted_date": "2027-03-09",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_fitr"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_015",
+    "occasion": "eid_al_adha",
+    "predicted_date": "2026-05-27",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_adha"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_005",
+    "occasion": "eid_al_fitr",
+    "predicted_date": "2027-03-09",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_fitr"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_005",
+    "occasion": "eid_al_adha",
+    "predicted_date": "2026-05-27",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_adha"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_007",
+    "occasion": "eid_al_fitr",
+    "predicted_date": "2027-03-09",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_fitr"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_007",
+    "occasion": "eid_al_adha",
+    "predicted_date": "2026-05-27",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_adha"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_004",
+    "occasion": "eid_al_fitr",
+    "predicted_date": "2027-03-09",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_fitr"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_004",
+    "occasion": "eid_al_adha",
+    "predicted_date": "2026-05-27",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_adha"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_002",
+    "occasion": "eid_al_fitr",
+    "predicted_date": "2027-03-09",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_fitr"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_002",
+    "occasion": "eid_al_adha",
+    "predicted_date": "2026-05-27",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_adha"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_003",
+    "occasion": "eid_al_fitr",
+    "predicted_date": "2027-03-09",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_fitr"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_003",
+    "occasion": "eid_al_adha",
+    "predicted_date": "2026-05-27",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_adha"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_016",
+    "occasion": "eid_al_fitr",
+    "predicted_date": "2027-03-09",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_fitr"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_016",
+    "occasion": "eid_al_adha",
+    "predicted_date": "2026-05-27",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_adha"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_001",
+    "occasion": "eid_al_fitr",
+    "predicted_date": "2027-03-09",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_fitr"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_001",
+    "occasion": "eid_al_adha",
+    "predicted_date": "2026-05-27",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_adha"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_009",
+    "occasion": "eid_al_fitr",
+    "predicted_date": "2027-03-09",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_fitr"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_009",
+    "occasion": "eid_al_adha",
+    "predicted_date": "2026-05-27",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_adha"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_012",
+    "occasion": "eid_al_fitr",
+    "predicted_date": "2027-03-09",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_fitr"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_012",
+    "occasion": "eid_al_adha",
+    "predicted_date": "2026-05-27",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_adha"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_023",
+    "occasion": "eid_al_fitr",
+    "predicted_date": "2027-03-09",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_fitr"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_023",
+    "occasion": "eid_al_adha",
+    "predicted_date": "2026-05-27",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_adha"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_034",
+    "occasion": "eid_al_fitr",
+    "predicted_date": "2027-03-09",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_fitr"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_034",
+    "occasion": "eid_al_adha",
+    "predicted_date": "2026-05-27",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_adha"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_006",
+    "occasion": "eid_al_fitr",
+    "predicted_date": "2027-03-09",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_fitr"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_006",
+    "occasion": "eid_al_adha",
+    "predicted_date": "2026-05-27",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_adha"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_026",
+    "occasion": "eid_al_fitr",
+    "predicted_date": "2027-03-09",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_fitr"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_026",
+    "occasion": "eid_al_adha",
+    "predicted_date": "2026-05-27",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_adha"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_040",
+    "occasion": "eid_al_fitr",
+    "predicted_date": "2027-03-09",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_fitr"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_040",
+    "occasion": "eid_al_adha",
+    "predicted_date": "2026-05-27",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_adha"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_029",
+    "occasion": "eid_al_fitr",
+    "predicted_date": "2027-03-09",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_fitr"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_029",
+    "occasion": "eid_al_adha",
+    "predicted_date": "2026-05-27",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_adha"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_030",
+    "occasion": "eid_al_fitr",
+    "predicted_date": "2027-03-09",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_fitr"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_030",
+    "occasion": "eid_al_adha",
+    "predicted_date": "2026-05-27",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_adha"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_021",
+    "occasion": "eid_al_fitr",
+    "predicted_date": "2027-03-09",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_fitr"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_021",
+    "occasion": "eid_al_adha",
+    "predicted_date": "2026-05-27",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_adha"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_025",
+    "occasion": "eid_al_fitr",
+    "predicted_date": "2027-03-09",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_fitr"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_025",
+    "occasion": "eid_al_adha",
+    "predicted_date": "2026-05-27",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_adha"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_038",
+    "occasion": "eid_al_fitr",
+    "predicted_date": "2027-03-09",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_fitr"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_038",
+    "occasion": "eid_al_adha",
+    "predicted_date": "2026-05-27",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_adha"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_032",
+    "occasion": "eid_al_fitr",
+    "predicted_date": "2027-03-09",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_fitr"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_032",
+    "occasion": "eid_al_adha",
+    "predicted_date": "2026-05-27",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_adha"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_027",
+    "occasion": "eid_al_fitr",
+    "predicted_date": "2027-03-09",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_fitr"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_027",
+    "occasion": "eid_al_adha",
+    "predicted_date": "2026-05-27",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_adha"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_022",
+    "occasion": "eid_al_fitr",
+    "predicted_date": "2027-03-09",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_fitr"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_022",
+    "occasion": "eid_al_adha",
+    "predicted_date": "2026-05-27",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_adha"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_042",
+    "occasion": "eid_al_fitr",
+    "predicted_date": "2027-03-09",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_fitr"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_042",
+    "occasion": "eid_al_adha",
+    "predicted_date": "2026-05-27",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_adha"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_045",
+    "occasion": "eid_al_fitr",
+    "predicted_date": "2027-03-09",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_fitr"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_045",
+    "occasion": "eid_al_adha",
+    "predicted_date": "2026-05-27",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_adha"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_031",
+    "occasion": "eid_al_fitr",
+    "predicted_date": "2027-03-09",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_fitr"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_031",
+    "occasion": "eid_al_adha",
+    "predicted_date": "2026-05-27",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_adha"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_035",
+    "occasion": "eid_al_fitr",
+    "predicted_date": "2027-03-09",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_fitr"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_035",
+    "occasion": "eid_al_adha",
+    "predicted_date": "2026-05-27",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_adha"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_047",
+    "occasion": "eid_al_fitr",
+    "predicted_date": "2027-03-09",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_fitr"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_047",
+    "occasion": "eid_al_adha",
+    "predicted_date": "2026-05-27",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_adha"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_050",
+    "occasion": "eid_al_fitr",
+    "predicted_date": "2027-03-09",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_fitr"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_050",
+    "occasion": "eid_al_adha",
+    "predicted_date": "2026-05-27",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_adha"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_049",
+    "occasion": "eid_al_fitr",
+    "predicted_date": "2027-03-09",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_fitr"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_049",
+    "occasion": "eid_al_adha",
+    "predicted_date": "2026-05-27",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_adha"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_039",
+    "occasion": "eid_al_fitr",
+    "predicted_date": "2027-03-09",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_fitr"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_039",
+    "occasion": "eid_al_adha",
+    "predicted_date": "2026-05-27",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_adha"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_037",
+    "occasion": "eid_al_fitr",
+    "predicted_date": "2027-03-09",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_fitr"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_037",
+    "occasion": "eid_al_adha",
+    "predicted_date": "2026-05-27",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_adha"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_041",
+    "occasion": "eid_al_fitr",
+    "predicted_date": "2027-03-09",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_fitr"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_041",
+    "occasion": "eid_al_adha",
+    "predicted_date": "2026-05-27",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_adha"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_044",
+    "occasion": "eid_al_fitr",
+    "predicted_date": "2027-03-09",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_fitr"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_044",
+    "occasion": "eid_al_adha",
+    "predicted_date": "2026-05-27",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_adha"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_046",
+    "occasion": "eid_al_fitr",
+    "predicted_date": "2027-03-09",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_fitr"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_046",
+    "occasion": "eid_al_adha",
+    "predicted_date": "2026-05-27",
+    "confidence": "medium",
+    "evidence": [
+      "Hijri calendar projection for eid_al_adha"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "hijri"
+  },
+  {
+    "customer_id": "cust_018",
+    "occasion": "birthday",
+    "predicted_date": "2027-03-08",
+    "confidence": "low",
+    "evidence": [
+      "Frequent browsing interest in cakes",
+      "4 browse events detected"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_020",
+    "occasion": "mothers_day",
+    "predicted_date": "2027-03-08",
+    "confidence": "low",
+    "evidence": [
+      "Frequent browsing interest in flowers",
+      "3 browse events detected"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_011",
+    "occasion": "mothers_day",
+    "predicted_date": "2027-03-08",
+    "confidence": "low",
+    "evidence": [
+      "Frequent browsing interest in flowers",
+      "3 browse events detected"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_008",
+    "occasion": "mothers_day",
+    "predicted_date": "2027-03-08",
+    "confidence": "low",
+    "evidence": [
+      "Frequent browsing interest in flowers",
+      "3 browse events detected"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_015",
+    "occasion": "mothers_day",
+    "predicted_date": "2027-03-08",
+    "confidence": "low",
+    "evidence": [
+      "Frequent browsing interest in flowers",
+      "3 browse events detected"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_007",
+    "occasion": "mothers_day",
+    "predicted_date": "2027-03-08",
+    "confidence": "low",
+    "evidence": [
+      "Frequent browsing interest in flowers",
+      "7 browse events detected"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_002",
+    "occasion": "mothers_day",
+    "predicted_date": "2027-03-08",
+    "confidence": "low",
+    "evidence": [
+      "Frequent browsing interest in flowers",
+      "4 browse events detected"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_016",
+    "occasion": "mothers_day",
+    "predicted_date": "2027-03-08",
+    "confidence": "low",
+    "evidence": [
+      "Frequent browsing interest in flowers",
+      "3 browse events detected"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_016",
+    "occasion": "anniversary",
+    "predicted_date": "2027-03-08",
+    "confidence": "low",
+    "evidence": [
+      "Frequent browsing interest in perfumes",
+      "3 browse events detected"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_009",
+    "occasion": "mothers_day",
+    "predicted_date": "2027-03-08",
+    "confidence": "low",
+    "evidence": [
+      "Frequent browsing interest in flowers",
+      "3 browse events detected"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "gregorian"
+  },
+  {
+    "customer_id": "cust_012",
+    "occasion": "mothers_day",
+    "predicted_date": "2027-03-08",
+    "confidence": "low",
+    "evidence": [
+      "Frequent browsing interest in flowers",
+      "3 browse events detected"
+    ],
+    "recipient_name": null,
+    "recipient_relationship": null,
+    "calendar_type": "gregorian"
+  }
+]

@@ -1,0 +1,9 @@
+services:
+  app:
+    build: .
+    container_name: ai_marketing_engine
+    env_file:
+      - .env
+    volumes:
+      - ./outputs:/app/outputs
+    command: sh -c "python src/main.py && COVERAGE_FILE=/tmp/.coverage pytest --rootdir=. -c tests/pytest.ini tests/"

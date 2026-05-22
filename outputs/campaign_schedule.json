@@ -1,0 +1,2823 @@
+[
+  {
+    "send_id": "e50b515e-4b38-4a7e-8d28-c1400cddf690",
+    "customer_id": "cust_024",
+    "channel": "email",
+    "scheduled_send_time": "2026-05-29T10:00:00+00:00",
+    "occasion": "birthday",
+    "confidence_score": "high",
+    "message": {
+      "email": {
+        "subject": "A special birthday surprise for James",
+        "body": "As James's birthday approaches, it's the perfect occasion to celebrate his special day with warmth and affection.\n\nWe've thoughtfully curated beautiful flower arrangements, including the elegant Blush Serenity Birthday Bloom Box, designed to bring joy and a personal touch to his celebration.\n\nExplore these delightful gifts at zuvees.ae, and make his birthday truly memorable."
+      },
+      "whatsapp": null,
+      "push": null
+    },
+    "reasoning": "high confidence birthday via email.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": false,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "70d52c3e-9141-4970-aa72-ff2a47e2fac2",
+    "customer_id": "cust_014",
+    "channel": "whatsapp",
+    "scheduled_send_time": "2026-05-29T11:30:00+00:00",
+    "occasion": "birthday",
+    "confidence_score": "high",
+    "message": {
+      "email": null,
+      "whatsapp": {
+        "template_body": "Hi {{1}}, get ready to celebrate a special birthday on 2026-11-23! Consider surprising them with our stunning {{2 }}. \n\nReply STOP to opt out.",
+        "variables": [
+          "Omar",
+          "Blush Serenity Birthday Bloom Box"
+        ],
+        "has_opt_out_footer": true
+      },
+      "push": null
+    },
+    "reasoning": "high confidence birthday via whatsapp.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": true,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "12c9a97f-476d-49fb-8090-4b4940f859de",
+    "customer_id": "cust_020",
+    "channel": "whatsapp",
+    "scheduled_send_time": "2026-05-29T11:30:00+00:00",
+    "occasion": "parent_birthday",
+    "confidence_score": "high",
+    "message": {
+      "email": null,
+      "whatsapp": {
+        "template_body": "Hi {{1}}, with your parent\u2019s birthday coming up on July 19, 2026, consider celebrating with our stunning {{2}}. It's the perfect gift to show your love. \n\nReply STOP to opt out.",
+        "variables": [
+          "Ahmed",
+          "Blush Serenity Birthday Bloom Box"
+        ],
+        "has_opt_out_footer": true
+      },
+      "push": null
+    },
+    "reasoning": "high confidence parent_birthday via whatsapp.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": true,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "8f65c8bc-1ef4-4fc5-951d-ae8c9c92b48f",
+    "customer_id": "cust_017",
+    "channel": "whatsapp",
+    "scheduled_send_time": "2026-05-29T11:30:00+00:00",
+    "occasion": "spouse_birthday",
+    "confidence_score": "high",
+    "message": {
+      "email": null,
+      "whatsapp": {
+        "template_body": "Hi {{1}}, get ready to celebrate your spouse's birthday on 2026-09-27! Consider the delightful {{2}} as a perfect gift. \n\nReply STOP to opt out.",
+        "variables": [
+          "Mom",
+          "Blush Serenity Birthday Bloom Box"
+        ],
+        "has_opt_out_footer": true
+      },
+      "push": null
+    },
+    "reasoning": "high confidence spouse_birthday via whatsapp.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": true,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "7f31fa8d-003b-42ff-80ed-cf41fcb37d79",
+    "customer_id": "cust_019",
+    "channel": "whatsapp",
+    "scheduled_send_time": "2026-05-29T14:00:00+00:00",
+    "occasion": "anniversary",
+    "confidence_score": "high",
+    "message": {
+      "email": null,
+      "whatsapp": {
+        "template_body": "Hi {{1}}, your anniversary is just around the corner! Surprise Sarah with the beautiful {{2}}. It's the perfect way to celebrate your love. \n\nReply STOP to opt out.",
+        "variables": [
+          "Sarah",
+          "Blush Serenity Birthday Bloom Box"
+        ],
+        "has_opt_out_footer": true
+      },
+      "push": null
+    },
+    "reasoning": "high confidence anniversary via whatsapp.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": true,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "e5cfaa21-ebcf-4156-8e23-0c880144b19b",
+    "customer_id": "cust_018",
+    "channel": "whatsapp",
+    "scheduled_send_time": "2026-05-29T21:00:00+00:00",
+    "occasion": "anniversary",
+    "confidence_score": "high",
+    "message": {
+      "email": null,
+      "whatsapp": {
+        "template_body": "Hi {{1}}, your anniversary is coming up on September 23, 2026! Celebrate with our lovely choice: the {{2}}. It's perfect for the occasion! \n\nReply STOP to opt out.",
+        "variables": [
+          "Dad",
+          "Blush Serenity Birthday Bloom Box"
+        ],
+        "has_opt_out_footer": true
+      },
+      "push": null
+    },
+    "reasoning": "high confidence anniversary via whatsapp.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": true,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "094d5d06-9db2-4598-9f28-2780363dec47",
+    "customer_id": "cust_013",
+    "channel": "email",
+    "scheduled_send_time": "2026-05-29T05:00:00+00:00",
+    "occasion": "spouse_birthday",
+    "confidence_score": "high",
+    "message": {
+      "email": {
+        "subject": "A Birthday Surprise for Layla",
+        "body": "As Layla's birthday approaches, it's the perfect moment to create a beautiful expression of your love.\n\nConsider our exquisite selection of birthday bloom boxes, each designed to bring joy and delight. The 'Blush Serenity Birthday Bloom Box' is a standout choice, embodying elegance and warmth.\n\nVisit zuvees.ae to explore these carefully crafted gifts that are sure to make her day unforgettable."
+      },
+      "whatsapp": null,
+      "push": null
+    },
+    "reasoning": "high confidence spouse_birthday via email.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": false,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "639d816d-6624-4749-afdb-c276f2f93563",
+    "customer_id": "cust_011",
+    "channel": "whatsapp",
+    "scheduled_send_time": "2026-05-29T11:30:00+00:00",
+    "occasion": "spouse_birthday",
+    "confidence_score": "high",
+    "message": {
+      "email": null,
+      "whatsapp": {
+        "template_body": "Hi {{1}}, get ready for a special occasion! Sarah's birthday is approaching on 2026-11-12. Consider gifting the beautiful {{2}} to make her day memorable. \n\nReply STOP to opt out.",
+        "variables": [
+          "you",
+          "Blush Serenity Birthday Bloom Box"
+        ],
+        "has_opt_out_footer": true
+      },
+      "push": null
+    },
+    "reasoning": "high confidence spouse_birthday via whatsapp.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": true,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "c7c5e4b3-e59a-4f5a-935a-d57215928ece",
+    "customer_id": "cust_010",
+    "channel": "whatsapp",
+    "scheduled_send_time": "2026-05-29T13:00:00+00:00",
+    "occasion": "anniversary",
+    "confidence_score": "high",
+    "message": {
+      "email": null,
+      "whatsapp": {
+        "template_body": "Hi {{1}}, your anniversary is approaching on June 1st! We've selected the beautiful {{2}} just for you. Celebrate this special day with a lovely gesture. \n\nReply STOP to opt out.",
+        "variables": [
+          "Dad",
+          "Blush Serenity Birthday Bloom Box"
+        ],
+        "has_opt_out_footer": true
+      },
+      "push": null
+    },
+    "reasoning": "high confidence anniversary via whatsapp.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": true,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "bfa8c1aa-049b-4abb-a50a-191734583462",
+    "customer_id": "cust_033",
+    "channel": "whatsapp",
+    "scheduled_send_time": "2026-05-29T22:00:00+00:00",
+    "occasion": "anniversary",
+    "confidence_score": "high",
+    "message": {
+      "email": null,
+      "whatsapp": {
+        "template_body": "Hi {{1}}, your anniversary is coming up on August 2nd! Surprise Mom with our beautiful {{2}} that she'll love. Don't miss the chance to make her day special! \n\nReply STOP to opt out.",
+        "variables": [
+          "Mom",
+          "Blush Serenity Birthday Bloom Box"
+        ],
+        "has_opt_out_footer": true
+      },
+      "push": null
+    },
+    "reasoning": "high confidence anniversary via whatsapp.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": true,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "288605ac-58cf-4f71-b944-3cccba183143",
+    "customer_id": "cust_028",
+    "channel": "email",
+    "scheduled_send_time": "2026-05-29T04:00:00+00:00",
+    "occasion": "birthday",
+    "confidence_score": "high",
+    "message": {
+      "email": {
+        "subject": "Celebrate Ahmed's Special Day",
+        "body": "Ahmed's birthday is just around the corner \u2014 a wonderful opportunity to celebrate him with something truly special.\n\nOur exquisite selection of birthday bloom boxes, like the Blush Serenity Birthday Bloom Box, is crafted to bring warmth and joy to his day.\n\nExplore your options at zuvees.ae and give him a gift that reflects your appreciation and affection."
+      },
+      "whatsapp": null,
+      "push": null
+    },
+    "reasoning": "high confidence birthday via email.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": false,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "fcd3dc1a-d514-4ba7-b51d-078b60c8de52",
+    "customer_id": "cust_036",
+    "channel": "whatsapp",
+    "scheduled_send_time": "2026-05-30T00:00:00+00:00",
+    "occasion": "spouse_birthday",
+    "confidence_score": "high",
+    "message": {
+      "email": null,
+      "whatsapp": {
+        "template_body": "Hi {{1}}, your spouse's birthday is coming up on August 23, 2026! A beautiful pick for the occasion is the {{2}}. It\u2019s sure to make them feel special. \n\nReply STOP to opt out.",
+        "variables": [
+          "Mom",
+          "Blush Serenity Birthday Bloom Box"
+        ],
+        "has_opt_out_footer": true
+      },
+      "push": null
+    },
+    "reasoning": "high confidence spouse_birthday via whatsapp.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": true,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "15028b47-aff8-498a-868b-f8a72b1b846a",
+    "customer_id": "cust_008",
+    "channel": "whatsapp",
+    "scheduled_send_time": "2026-05-29T14:30:00+00:00",
+    "occasion": "spouse_birthday",
+    "confidence_score": "high",
+    "message": {
+      "email": null,
+      "whatsapp": {
+        "template_body": "Hi {{1}}, don't forget that your spouse's birthday is on July 14th! We've curated beautiful options like the {{2}} to celebrate this special day. \n\nReply STOP to opt out.",
+        "variables": [
+          "Mom",
+          "Blush Serenity Birthday Bloom Box"
+        ],
+        "has_opt_out_footer": true
+      },
+      "push": null
+    },
+    "reasoning": "high confidence spouse_birthday via whatsapp.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": true,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "acbda2c7-de78-4eb1-99ad-cb394a495b77",
+    "customer_id": "cust_015",
+    "channel": "whatsapp",
+    "scheduled_send_time": "2026-05-29T21:00:00+00:00",
+    "occasion": "parent_birthday",
+    "confidence_score": "high",
+    "message": {
+      "email": null,
+      "whatsapp": {
+        "template_body": "Hi {{1}}, Mom's birthday is coming up on July 2nd! Consider surprising her with the beautiful {{2}}. It's perfect for this occasion! \n\nReply STOP to opt out.",
+        "variables": [
+          "Mom",
+          "Blush Serenity Birthday Bloom Box"
+        ],
+        "has_opt_out_footer": true
+      },
+      "push": null
+    },
+    "reasoning": "high confidence parent_birthday via whatsapp.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": true,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "63ffd9c4-da5a-494e-94ad-17ab0652dabc",
+    "customer_id": "cust_007",
+    "channel": "whatsapp",
+    "scheduled_send_time": "2026-05-29T13:00:00+00:00",
+    "occasion": "birthday",
+    "confidence_score": "high",
+    "message": {
+      "email": null,
+      "whatsapp": {
+        "template_body": "Hi {{1}}, your birthday is just around the corner! Check out the beautiful {{2}} we have selected for you. They are perfect for celebrating this special day! \n\nReply STOP to opt out.",
+        "variables": [
+          "Fatima",
+          "Blush Serenity Birthday Bloom Box"
+        ],
+        "has_opt_out_footer": true
+      },
+      "push": null
+    },
+    "reasoning": "high confidence birthday via whatsapp.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": true,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "894dd3d8-2186-4ed2-981a-26b29ce28954",
+    "customer_id": "cust_005",
+    "channel": "email",
+    "scheduled_send_time": "2026-05-29T04:30:00+00:00",
+    "occasion": "parent_birthday",
+    "confidence_score": "high",
+    "message": {
+      "email": {
+        "subject": "A special birthday surprise for Layla",
+        "body": "As Layla's birthday approaches, it's the perfect time to celebrate her with something truly special.\n\nOur curated collection of exquisite birthday bloom boxes, including the enchanting Blush Serenity, is designed to bring joy and elegance to her day.\n\nTake a moment to explore these beautiful gifts on zuvees.ae, and let your thoughtful choice brighten her celebration."
+      },
+      "whatsapp": null,
+      "push": null
+    },
+    "reasoning": "high confidence parent_birthday via email.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": true,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "52e1104e-09b8-499d-913e-486710eb3269",
+    "customer_id": "cust_004",
+    "channel": "email",
+    "scheduled_send_time": "2026-05-29T05:00:00+00:00",
+    "occasion": "spouse_birthday",
+    "confidence_score": "high",
+    "message": {
+      "email": {
+        "subject": "Celebrate Ahmed's Special Day",
+        "body": "As Ahmed's birthday approaches, it's the perfect occasion to express your love and appreciation.\n\nWe've handpicked exquisite birthday bloom boxes that capture the essence of joy and beauty\u2014each crafted to bring a smile to his special day.\n\nWhen you're ready, explore our selection at zuvees.ae to find the gift that speaks to your heart."
+      },
+      "whatsapp": null,
+      "push": null
+    },
+    "reasoning": "high confidence spouse_birthday via email.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": false,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "943c2615-4f26-4618-8bf9-3d8acd43c69c",
+    "customer_id": "cust_009",
+    "channel": "whatsapp",
+    "scheduled_send_time": "2026-05-30T01:00:00+00:00",
+    "occasion": "spouse_birthday",
+    "confidence_score": "high",
+    "message": {
+      "email": null,
+      "whatsapp": {
+        "template_body": "Hi {{1}}, get ready to celebrate your special occasion with the lovely {{2}}. It's the perfect gift for her birthday!\n\nReply STOP to opt out.",
+        "variables": [
+          "Mom",
+          "Blush Serenity Birthday Bloom Box"
+        ],
+        "has_opt_out_footer": true
+      },
+      "push": null
+    },
+    "reasoning": "high confidence spouse_birthday via whatsapp.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": true,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "cc3615f9-5ce7-4dab-a9ae-8e6d9567edec",
+    "customer_id": "cust_003",
+    "channel": "whatsapp",
+    "scheduled_send_time": "2026-05-29T21:00:00+00:00",
+    "occasion": "birthday",
+    "confidence_score": "high",
+    "message": {
+      "email": null,
+      "whatsapp": {
+        "template_body": "Hi {{1}}, with your birthday coming up on November 9th, we've curated some beautiful gifts just for you! Our top pick is the {{2}}. \n\nReply STOP to opt out.",
+        "variables": [
+          "Sarah",
+          "Blush Serenity Birthday Bloom Box"
+        ],
+        "has_opt_out_footer": true
+      },
+      "push": null
+    },
+    "reasoning": "high confidence birthday via whatsapp.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": true,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "836270c0-1897-484a-9d77-56c0f0ecf4c0",
+    "customer_id": "cust_002",
+    "channel": "whatsapp",
+    "scheduled_send_time": "2026-05-29T11:30:00+00:00",
+    "occasion": "anniversary",
+    "confidence_score": "high",
+    "message": {
+      "email": null,
+      "whatsapp": {
+        "template_body": "Hi {{1}}, your anniversary is just around the corner! Celebrate with the beautiful {{2}}. It's a perfect way to show your love. \n\nReply STOP to opt out.",
+        "variables": [
+          "Dad",
+          "Blush Serenity Birthday Bloom Box"
+        ],
+        "has_opt_out_footer": true
+      },
+      "push": null
+    },
+    "reasoning": "high confidence anniversary via whatsapp.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": true,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "4bea473c-6b4d-4eb0-aa21-601e3f2d1c5d",
+    "customer_id": "cust_023",
+    "channel": "whatsapp",
+    "scheduled_send_time": "2026-05-29T11:30:00+00:00",
+    "occasion": "anniversary",
+    "confidence_score": "high",
+    "message": {
+      "email": null,
+      "whatsapp": {
+        "template_body": "Hi {{1}}, your anniversary is approaching on August 18th! Consider gifting the beautiful {{2}} to celebrate this special day. \n\nReply STOP to opt out.",
+        "variables": [
+          "Fatima",
+          "Blush Serenity Birthday Bloom Box"
+        ],
+        "has_opt_out_footer": true
+      },
+      "push": null
+    },
+    "reasoning": "high confidence anniversary via whatsapp.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": true,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "45e70f5b-151a-498d-a909-ec59ed348846",
+    "customer_id": "cust_016",
+    "channel": "email",
+    "scheduled_send_time": "2026-05-29T04:00:00+00:00",
+    "occasion": "birthday",
+    "confidence_score": "high",
+    "message": {
+      "email": {
+        "subject": "A special celebration for James",
+        "body": "Birthdays are a joyous occasion to celebrate someone special, and James deserves a gift that reflects his uniqueness.\n\nOur exquisite selection of birthday bloom boxes, such as the Blush Serenity, is designed to bring warmth and elegance to his day, crafted just for him.\n\nWhen you're ready to celebrate, visit zuvees.ae to explore these delightful offerings."
+      },
+      "whatsapp": null,
+      "push": null
+    },
+    "reasoning": "high confidence birthday via email.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": false,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "fcecc018-c0d1-40fb-92df-faca311b774d",
+    "customer_id": "cust_001",
+    "channel": "whatsapp",
+    "scheduled_send_time": "2026-05-29T16:00:00+00:00",
+    "occasion": "spouse_birthday",
+    "confidence_score": "high",
+    "message": {
+      "email": null,
+      "whatsapp": {
+        "template_body": "Hi {{1}}, your spouse's birthday is on 2026-07-05! Celebrate the day with the beautiful {{2}}. It's a perfect choice for making their day special. \n\nReply STOP to opt out.",
+        "variables": [
+          "Mom",
+          "Blush Serenity Birthday Bloom Box"
+        ],
+        "has_opt_out_footer": true
+      },
+      "push": null
+    },
+    "reasoning": "high confidence spouse_birthday via whatsapp.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": true,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "74e4a0e6-b266-4d5e-b144-96ac2d70ba07",
+    "customer_id": "cust_012",
+    "channel": "whatsapp",
+    "scheduled_send_time": "2026-05-29T21:00:00+00:00",
+    "occasion": "parent_birthday",
+    "confidence_score": "high",
+    "message": {
+      "email": null,
+      "whatsapp": {
+        "template_body": "Hi {{1}}, with your parent's birthday on June 15th, we have the perfect gift ideas! Check out our top pick: the {{2 }}. It's a delightful choice that will make their day special. \n\nReply STOP to opt out.",
+        "variables": [
+          "Ahmed",
+          "Blush Serenity Birthday Bloom Box"
+        ],
+        "has_opt_out_footer": true
+      },
+      "push": null
+    },
+    "reasoning": "high confidence parent_birthday via whatsapp.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": true,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "7c03a629-cbef-483b-a4d3-eb57c530e926",
+    "customer_id": "cust_034",
+    "channel": "whatsapp",
+    "scheduled_send_time": "2026-05-29T13:00:00+00:00",
+    "occasion": "parent_birthday",
+    "confidence_score": "high",
+    "message": {
+      "email": null,
+      "whatsapp": {
+        "template_body": "Hi {{1}}, your Dad's birthday is coming up on June 23rd! Consider gifting him the beautiful {{2}} to make his day special. \n\nReply STOP to opt out.",
+        "variables": [
+          "Dad",
+          "Blush Serenity Birthday Bloom Box"
+        ],
+        "has_opt_out_footer": true
+      },
+      "push": null
+    },
+    "reasoning": "high confidence parent_birthday via whatsapp.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": true,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "89b52734-ea2c-4a7e-bc1c-44170c792e64",
+    "customer_id": "cust_006",
+    "channel": "email",
+    "scheduled_send_time": "2026-05-29T10:00:00+00:00",
+    "occasion": "birthday",
+    "confidence_score": "high",
+    "message": {
+      "email": {
+        "subject": "Celebrating Omar's special day",
+        "body": "A birthday is a beautiful moment to honor someone special, and Omar's day is just around the corner.\n\nWe have a selection of enchanting blooms, including our exquisite Blush Serenity Birthday Bloom Box, perfect for making his day memorable.\n\nWhen you're ready, explore more at zuvees.ae and find that perfect gift to celebrate."
+      },
+      "whatsapp": null,
+      "push": null
+    },
+    "reasoning": "high confidence birthday via email.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": false,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "05e47bae-76d3-4b8e-a047-3bdb7ddfad69",
+    "customer_id": "cust_026",
+    "channel": "whatsapp",
+    "scheduled_send_time": "2026-05-29T14:30:00+00:00",
+    "occasion": "birthday",
+    "confidence_score": "high",
+    "message": {
+      "email": null,
+      "whatsapp": {
+        "template_body": "Hi {{1}}, celebrate Dad's birthday with the enchanting {{2}}. It's a perfect way to show your love. \n\nReply STOP to opt out.",
+        "variables": [
+          "you",
+          "Blush Serenity Birthday Bloom Box"
+        ],
+        "has_opt_out_footer": true
+      },
+      "push": null
+    },
+    "reasoning": "high confidence birthday via whatsapp.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": true,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "18aefcee-208b-44bb-b19d-b4920b1854b8",
+    "customer_id": "cust_040",
+    "channel": "email",
+    "scheduled_send_time": "2026-05-29T07:00:00+00:00",
+    "occasion": "spouse_birthday",
+    "confidence_score": "high",
+    "message": {
+      "email": {
+        "subject": "A Beautiful Surprise for James\u2019s Birthday",
+        "body": "With James's birthday approaching, it's the perfect time to express your love and admiration.\n\nOur exquisite range of birthday bloom boxes, including the enchanting Blush Serenity Birthday Bloom Box, is designed to convey your heartfelt sentiments on this special day.\n\nTake a moment to explore these elegant selections on zuvees.ae and find the perfect surprise that will make his birthday truly memorable."
+      },
+      "whatsapp": null,
+      "push": null
+    },
+    "reasoning": "high confidence spouse_birthday via email.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": true,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "1fa5b450-a352-488a-a270-d3bfe45cff87",
+    "customer_id": "cust_030",
+    "channel": "whatsapp",
+    "scheduled_send_time": "2026-05-29T21:00:00+00:00",
+    "occasion": "birthday",
+    "confidence_score": "high",
+    "message": {
+      "email": null,
+      "whatsapp": {
+        "template_body": "Hi {{1}}, your birthday is approaching on 2026-07-25! Explore the beautiful Blush Serenity Birthday Bloom Box for a delightful gift. \n\nReply STOP to opt out.",
+        "variables": [
+          "Omar"
+        ],
+        "has_opt_out_footer": true
+      },
+      "push": null
+    },
+    "reasoning": "high confidence birthday via whatsapp.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": true,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "f7d79f5f-8f5a-4cc9-a0e8-e5bcacb5c724",
+    "customer_id": "cust_032",
+    "channel": "email",
+    "scheduled_send_time": "2026-05-29T05:30:00+00:00",
+    "occasion": "spouse_birthday",
+    "confidence_score": "high",
+    "message": {
+      "email": {
+        "subject": "A Birthday Surprise for James",
+        "body": "As James's birthday approaches, it\u2019s the perfect time to celebrate the wonderful moments you've shared together.\n\nConsider delighting him with our exquisite selection of birthday bloom boxes, each crafted to bring beauty and joy. The Blush Serenity Birthday Bloom Box, among others, reflects the elegance of this special day.\n\nExplore these thoughtful options at zuvees.ae, and make this birthday unforgettable."
+      },
+      "whatsapp": null,
+      "push": null
+    },
+    "reasoning": "high confidence spouse_birthday via email.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": true,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "2246640c-f86f-48e2-b5aa-7532fe6eefa5",
+    "customer_id": "cust_038",
+    "channel": "email",
+    "scheduled_send_time": "2026-05-29T05:30:00+00:00",
+    "occasion": "spouse_birthday",
+    "confidence_score": "high",
+    "message": {
+      "email": {
+        "subject": "Celebrating Omar's Special Day",
+        "body": "Omar's birthday is approaching \u2014 a precious opportunity to express your love and appreciation.\n\nWe\u2019ve thoughtfully curated a selection of beautiful bloom boxes, perfect for this celebration. Each arrangement, including the exquisite Blush Serenity Birthday Bloom Box, is designed to bring joy and elegance to his day.\n\nWhen you're ready to discover the perfect gift, explore our offerings at zuvees.ae."
+      },
+      "whatsapp": null,
+      "push": null
+    },
+    "reasoning": "high confidence spouse_birthday via email.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": true,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "0864add8-90a0-475c-b829-f350d00fd267",
+    "customer_id": "cust_029",
+    "channel": "whatsapp",
+    "scheduled_send_time": "2026-05-29T11:30:00+00:00",
+    "occasion": "anniversary",
+    "confidence_score": "high",
+    "message": {
+      "email": null,
+      "whatsapp": {
+        "template_body": "Hi {{1}}, your anniversary is coming up on July 28, 2026! The top pick for this special day is the {{2}}. It's a beautiful way to celebrate. \n\nReply STOP to opt out.",
+        "variables": [
+          "Mom",
+          "Blush Serenity Birthday Bloom Box"
+        ],
+        "has_opt_out_footer": true
+      },
+      "push": null
+    },
+    "reasoning": "high confidence anniversary via whatsapp.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": true,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "dc1aa702-86e4-48a6-8734-cc14910b2241",
+    "customer_id": "cust_025",
+    "channel": "whatsapp",
+    "scheduled_send_time": "2026-05-29T14:00:00+00:00",
+    "occasion": "anniversary",
+    "confidence_score": "high",
+    "message": {
+      "email": null,
+      "whatsapp": {
+        "template_body": "Hi {{1}}, your anniversary is coming up on 2026-11-20! Consider celebrating the occasion with the beautiful {{2}}. \n\nReply STOP to opt out.",
+        "variables": [
+          "Mom",
+          "Blush Serenity Birthday Bloom Box"
+        ],
+        "has_opt_out_footer": true
+      },
+      "push": null
+    },
+    "reasoning": "high confidence anniversary via whatsapp.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": true,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "aec92698-b927-4c1d-b005-b4ea518bbfb3",
+    "customer_id": "cust_027",
+    "channel": "email",
+    "scheduled_send_time": "2026-05-29T15:00:00+00:00",
+    "occasion": "anniversary",
+    "confidence_score": "high",
+    "message": {
+      "email": {
+        "subject": "Celebrate Your Love with Elegance",
+        "body": "As your anniversary approaches, consider the beauty of finely curated blooms to express your affection for Sarah. \n\nThe Blush Serenity Birthday Bloom Box and its elegant companions are designed to embody the sentiments of this cherished occasion. Each arrangement is a testament to love, celebrating your journey together. \n\nWhen you're ready to explore these exquisite gifts, visit us at zuvees.ae."
+      },
+      "whatsapp": null,
+      "push": null
+    },
+    "reasoning": "high confidence anniversary via email.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": true,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "1a74cd19-bf61-4a12-975d-64be4fbee20d",
+    "customer_id": "cust_021",
+    "channel": "whatsapp",
+    "scheduled_send_time": "2026-05-29T21:00:00+00:00",
+    "occasion": "anniversary",
+    "confidence_score": "high",
+    "message": {
+      "email": null,
+      "whatsapp": {
+        "template_body": "Hi {{1}}, your anniversary is just around the corner! Consider the stunning {{2}} as a perfect way to celebrate this special day. Let\u2019s make it memorable!\n\nReply STOP to opt out.",
+        "variables": [
+          "Layla",
+          "Blush Serenity Birthday Bloom Box"
+        ],
+        "has_opt_out_footer": true
+      },
+      "push": null
+    },
+    "reasoning": "high confidence anniversary via whatsapp.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": true,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "004f1f47-8bf7-45e1-9425-40c6f61a9ce1",
+    "customer_id": "cust_022",
+    "channel": "whatsapp",
+    "scheduled_send_time": "2026-05-29T13:00:00+00:00",
+    "occasion": "anniversary",
+    "confidence_score": "high",
+    "message": {
+      "email": null,
+      "whatsapp": {
+        "template_body": "Hi {{1}}, your anniversary is on the way! Celebrate with the beautiful {{2}}. It's a perfect way to express your love. \n\nReply STOP to opt out.",
+        "variables": [
+          "Mom",
+          "Blush Serenity Birthday Bloom Box"
+        ],
+        "has_opt_out_footer": true
+      },
+      "push": null
+    },
+    "reasoning": "high confidence anniversary via whatsapp.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": true,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "157c79bd-460a-4ddb-b22d-d6c6878311a9",
+    "customer_id": "cust_031",
+    "channel": "whatsapp",
+    "scheduled_send_time": "2026-05-29T13:00:00+00:00",
+    "occasion": "parent_birthday",
+    "confidence_score": "high",
+    "message": {
+      "email": null,
+      "whatsapp": {
+        "template_body": "Hi {{1}}, prepare for a special celebration on November 11th! We're excited to offer you the stunning {{2}} for the occasion. It's the perfect way to show you care!\n\nReply STOP to opt out.",
+        "variables": [
+          "Fatima",
+          "Blush Serenity Birthday Bloom Box"
+        ],
+        "has_opt_out_footer": true
+      },
+      "push": null
+    },
+    "reasoning": "high confidence parent_birthday via whatsapp.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": true,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "ab82b971-5f22-4bdc-ac29-3c678e47916c",
+    "customer_id": "cust_037",
+    "channel": "whatsapp",
+    "scheduled_send_time": "2026-05-29T14:00:00+00:00",
+    "occasion": "parent_birthday",
+    "confidence_score": "high",
+    "message": {
+      "email": null,
+      "whatsapp": {
+        "template_body": "Hi {{1}}, get ready for a special celebration! For the upcoming parent birthday, consider the stunning {{2}} to brighten the day. Perfect for expressing your love and appreciation. \n\nReply STOP to opt out.",
+        "variables": [
+          "Layla",
+          "Blush Serenity Birthday Bloom Box"
+        ],
+        "has_opt_out_footer": true
+      },
+      "push": null
+    },
+    "reasoning": "high confidence parent_birthday via whatsapp.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": true,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "78b67f4d-6902-4c32-9985-1e32af023c4e",
+    "customer_id": "cust_039",
+    "channel": "email",
+    "scheduled_send_time": "2026-05-29T15:00:00+00:00",
+    "occasion": "parent_birthday",
+    "confidence_score": "high",
+    "message": {
+      "email": {
+        "subject": "A special birthday surprise for Fatima",
+        "body": "As Fatima's birthday approaches, it's the perfect time to celebrate her with something truly special.\n\nOur selection of exquisite bloom boxes, like the Blush Serenity Birthday Bloom Box, captures the essence of elegance and joy \u2014 a delightful way to show your love.\n\nExplore these curated gifts when you're ready at zuvees.ae. Let's make this birthday unforgettable."
+      },
+      "whatsapp": null,
+      "push": null
+    },
+    "reasoning": "high confidence parent_birthday via email.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": false,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "e9bc7189-e048-4ffc-9ab8-827e66ed9a11",
+    "customer_id": "cust_010",
+    "channel": "whatsapp",
+    "scheduled_send_time": "2026-05-29T13:00:00+00:00",
+    "occasion": "eid_al_fitr",
+    "confidence_score": "medium",
+    "message": {
+      "email": null,
+      "whatsapp": {
+        "template_body": "Hi there! Eid al-Fitr is coming up on March 9, 2027. Consider surprising your loved ones with our gorgeous {{1}}. It's the perfect way to celebrate the occasion!\n\nReply STOP to opt out.",
+        "variables": [
+          "Blush Serenity Birthday Bloom Box"
+        ],
+        "has_opt_out_footer": true
+      },
+      "push": null
+    },
+    "reasoning": "medium confidence eid_al_fitr via whatsapp.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": true,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "9b61ec95-a442-4bc4-8b62-ccb350f761dc",
+    "customer_id": "cust_018",
+    "channel": "whatsapp",
+    "scheduled_send_time": "2026-05-29T21:00:00+00:00",
+    "occasion": "mothers_day",
+    "confidence_score": "medium",
+    "message": {
+      "email": null,
+      "whatsapp": {
+        "template_body": "Hi {{1}}, Mother's Day is just around the corner! Consider surprising Dad with the beautiful {{2}}. It's a lovely way to show your love and appreciation.\n\nReply STOP to opt out.",
+        "variables": [
+          "You",
+          "Blush Serenity Birthday Bloom Box"
+        ],
+        "has_opt_out_footer": true
+      },
+      "push": null
+    },
+    "reasoning": "medium confidence mothers_day via whatsapp.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": true,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "e21df1bf-c6e3-4957-96a6-4d3f440b9730",
+    "customer_id": "cust_020",
+    "channel": "whatsapp",
+    "scheduled_send_time": "2026-05-29T11:30:00+00:00",
+    "occasion": "womens_day",
+    "confidence_score": "medium",
+    "message": {
+      "email": null,
+      "whatsapp": {
+        "template_body": "Hi {{1}}, with Women\u2019s Day approaching on March 8th, it\u2019s the perfect time to celebrate with some beautiful blooms. Check out our top pick: the {{2 }}. It\u2019s a great way to show your appreciation for your special friends. \n\nReply STOP to opt out.",
+        "variables": [
+          "Ahmed",
+          "Blush Serenity Birthday Bloom Box"
+        ],
+        "has_opt_out_footer": true
+      },
+      "push": null
+    },
+    "reasoning": "medium confidence womens_day via whatsapp.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": true,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "767cf427-d29d-4203-a5b6-e885bc20ffd9",
+    "customer_id": "cust_013",
+    "channel": "email",
+    "scheduled_send_time": "2026-05-29T05:00:00+00:00",
+    "occasion": "womens_day",
+    "confidence_score": "medium",
+    "message": {
+      "email": {
+        "subject": "A Special Surprise for Layla this Women's Day",
+        "body": "Women's Day is a beautiful occasion to celebrate the remarkable women in our lives, and Layla is truly special.\n\nWe have lovingly curated exquisite floral arrangements that embody elegance. The Blush Serenity Birthday Bloom Box, among others, captures the essence of grace and charm.\n\nWhen you're ready, discover the perfect gift for Layla at zuvees.ae."
+      },
+      "whatsapp": null,
+      "push": null
+    },
+    "reasoning": "medium confidence womens_day via email.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": false,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "f539f52d-e4d5-4589-a3ed-6beb25d39d53",
+    "customer_id": "cust_024",
+    "channel": "email",
+    "scheduled_send_time": "2026-05-29T10:00:00+00:00",
+    "occasion": "eid_al_fitr",
+    "confidence_score": "medium",
+    "message": {
+      "email": {
+        "subject": "Celebrate Eid with Elegance",
+        "body": "Eid al-Fitr is approaching, a time to rejoice and share warmth with loved ones.\n\nExplore our exquisite selection of flowers, including the stunning Blush Serenity Bloom Box, designed to bring beauty and joy to your celebrations.\n\nLet Zuvees assist you in making this festive occasion special and memorable. Visit us at zuvees.ae when you're ready to gift."
+      },
+      "whatsapp": null,
+      "push": null
+    },
+    "reasoning": "medium confidence eid_al_fitr via email.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": false,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "7203f631-d893-4872-965d-493c871affd6",
+    "customer_id": "cust_033",
+    "channel": "whatsapp",
+    "scheduled_send_time": "2026-05-29T22:00:00+00:00",
+    "occasion": "eid_al_fitr",
+    "confidence_score": "medium",
+    "message": {
+      "email": null,
+      "whatsapp": {
+        "template_body": "Hi there! With Eid al-Fitr approaching on 09 March 2027, consider celebrating with our beautiful {{1}}. It's a wonderful way to bring joy to your loved ones during this special occasion. \n\nReply STOP to opt out.",
+        "variables": [
+          "Blush Serenity Birthday Bloom Box"
+        ],
+        "has_opt_out_footer": true
+      },
+      "push": null
+    },
+    "reasoning": "medium confidence eid_al_fitr via whatsapp.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": true,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "2cce3114-ae20-41e5-b445-d72bc7990ce9",
+    "customer_id": "cust_017",
+    "channel": "whatsapp",
+    "scheduled_send_time": "2026-05-29T11:30:00+00:00",
+    "occasion": "eid_al_fitr",
+    "confidence_score": "medium",
+    "message": {
+      "email": null,
+      "whatsapp": {
+        "template_body": "Hi there! With Eid al-Fitr approaching on March 9, 2027, we think you might love the Blush Serenity Birthday Bloom Box for this special occasion. It's perfect for celebrating with joy and beauty. \n\nReply STOP to opt out.",
+        "variables": [
+          "there",
+          "Eid al-Fitr",
+          "Blush Serenity Birthday Bloom Box"
+        ],
+        "has_opt_out_footer": true
+      },
+      "push": null
+    },
+    "reasoning": "medium confidence eid_al_fitr via whatsapp.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": true,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "4a8550eb-232e-4889-a49a-fe7ee8cd9b17",
+    "customer_id": "cust_035",
+    "channel": "email",
+    "scheduled_send_time": "2026-05-29T00:30:00+00:00",
+    "occasion": "birthday",
+    "confidence_score": "high",
+    "message": {
+      "email": {
+        "subject": "A Special Birthday Surprise for Sarah",
+        "body": "As Sarah's birthday approaches, it's the perfect moment to celebrate her vibrant spirit.\n\nExplore our stunning range of birthday blooms, including the exquisite Blush Serenity Birthday Bloom Box crafted to delight her.\n\nAt Zuvees, we believe every gift should tell a story. Visit zuvees.ae to choose something truly special."
+      },
+      "whatsapp": null,
+      "push": null
+    },
+    "reasoning": "high confidence birthday via email.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": true,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "23995cc3-823a-4e96-9f0c-6c995329cbc5",
+    "customer_id": "cust_019",
+    "channel": "whatsapp",
+    "scheduled_send_time": "2026-05-29T14:00:00+00:00",
+    "occasion": "eid_al_fitr",
+    "confidence_score": "medium",
+    "message": {
+      "email": null,
+      "whatsapp": {
+        "template_body": "Hi there! Eid al-Fitr is approaching on March 9, 2027. Celebrate with the beautiful {{1}}, perfect for this joyous occasion. \n\nReply STOP to opt out.",
+        "variables": [
+          "Blush Serenity Birthday Bloom Box"
+        ],
+        "has_opt_out_footer": true
+      },
+      "push": null
+    },
+    "reasoning": "medium confidence eid_al_fitr via whatsapp.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": true,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "fc1d2c7b-1321-45c1-9a99-4a6c9c619dea",
+    "customer_id": "cust_014",
+    "channel": "whatsapp",
+    "scheduled_send_time": "2026-05-29T11:30:00+00:00",
+    "occasion": "womens_day",
+    "confidence_score": "medium",
+    "message": {
+      "email": null,
+      "whatsapp": {
+        "template_body": "Hi {{1}}, with Women's Day approaching on March 8th, surprise your sister with the beautiful {{2}}. It's a perfect way to show your love and appreciation! \n\nReply STOP to opt out.",
+        "variables": [
+          "Omar",
+          "Blush Serenity Birthday Bloom Box"
+        ],
+        "has_opt_out_footer": true
+      },
+      "push": null
+    },
+    "reasoning": "medium confidence womens_day via whatsapp.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": true,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "174d6874-e0c5-41d6-8895-6ab1a088f0c5",
+    "customer_id": "cust_008",
+    "channel": "whatsapp",
+    "scheduled_send_time": "2026-05-29T14:30:00+00:00",
+    "occasion": "eid_al_fitr",
+    "confidence_score": "medium",
+    "message": {
+      "email": null,
+      "whatsapp": {
+        "template_body": "Hello! Eid al Fitr is approaching, and it's a wonderful time to celebrate. Consider the beautiful {{1}} to make the occasion special. \n\nReply STOP to opt out.",
+        "variables": [
+          "Blush Serenity Birthday Bloom Box"
+        ],
+        "has_opt_out_footer": true
+      },
+      "push": null
+    },
+    "reasoning": "medium confidence eid_al_fitr via whatsapp.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": true,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "5e1842d7-0d20-4059-975d-8b431f3e12ac",
+    "customer_id": "cust_007",
+    "channel": "whatsapp",
+    "scheduled_send_time": "2026-05-29T13:00:00+00:00",
+    "occasion": "womens_day",
+    "confidence_score": "medium",
+    "message": {
+      "email": null,
+      "whatsapp": {
+        "template_body": "Hi {{1}}, with Women\u2019s Day on the horizon, it's the perfect occasion to celebrate. Consider the beautiful {{2}} for your special day. \n\nReply STOP to opt out.",
+        "variables": [
+          "Fatima",
+          "Blush Serenity Birthday Bloom Box"
+        ],
+        "has_opt_out_footer": true
+      },
+      "push": null
+    },
+    "reasoning": "medium confidence womens_day via whatsapp.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": true,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "eb4810a7-1918-4b04-9770-0f43c8155e9c",
+    "customer_id": "cust_005",
+    "channel": "email",
+    "scheduled_send_time": "2026-05-29T04:30:00+00:00",
+    "occasion": "eid_al_fitr",
+    "confidence_score": "medium",
+    "message": {
+      "email": {
+        "subject": "Celebrate Eid with Thoughtful Gifting",
+        "body": "Eid al-Fitr is a cherished time for reflection and togetherness. It's the perfect occasion to express your heartfelt wishes to your loved ones.\n\nAllow us to inspire you with our exquisite collection of flower arrangements, including the enchanting Blush Serenity Bloom Box, crafted to elevate the spirit of celebration.\n\nExplore our offerings at zuvees.ae and find something that beautifully conveys your sentiments this festive season."
+      },
+      "whatsapp": null,
+      "push": null
+    },
+    "reasoning": "medium confidence eid_al_fitr via email.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": true,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "b6a5e1ca-b8e9-45e4-96c9-d0265377d73b",
+    "customer_id": "cust_002",
+    "channel": "whatsapp",
+    "scheduled_send_time": "2026-05-29T11:30:00+00:00",
+    "occasion": "eid_al_fitr",
+    "confidence_score": "medium",
+    "message": {
+      "email": null,
+      "whatsapp": {
+        "template_body": "Hi there! Eid al-Fitr is on {{1}}. Celebrate with beautiful blooms like our {{2}}. Perfect for sharing joy during this special time! \n\nReply STOP to opt out.",
+        "variables": [
+          "2027-03-09",
+          "Blush Serenity Birthday Bloom Box"
+        ],
+        "has_opt_out_footer": true
+      },
+      "push": null
+    },
+    "reasoning": "medium confidence eid_al_fitr via whatsapp.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": true,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "1800f5c8-0ccb-4bd0-a4ba-200257672d69",
+    "customer_id": "cust_011",
+    "channel": "whatsapp",
+    "scheduled_send_time": "2026-05-29T11:30:00+00:00",
+    "occasion": "womens_day",
+    "confidence_score": "medium",
+    "message": {
+      "email": null,
+      "whatsapp": {
+        "template_body": "Hi {{1}}, Women's Day is approaching on March 8th! Surprise your partner with our beautiful {{2}}. A perfect way to show your love and appreciation! \n\nReply STOP to opt out.",
+        "variables": [
+          "Sarah",
+          "Blush Serenity Birthday Bloom Box"
+        ],
+        "has_opt_out_footer": true
+      },
+      "push": null
+    },
+    "reasoning": "medium confidence womens_day via whatsapp.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": true,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "e10d9a4c-80d1-4c53-995a-ca03c1be5b08",
+    "customer_id": "cust_004",
+    "channel": "email",
+    "scheduled_send_time": "2026-05-29T05:00:00+00:00",
+    "occasion": "eid_al_fitr",
+    "confidence_score": "medium",
+    "message": {
+      "email": {
+        "subject": "Joyful Greetings for Eid al-Fitr",
+        "body": "As Eid al-Fitr approaches, it\u2019s the perfect moment to spread happiness among loved ones. Celebrate this joyous occasion with our exquisite selection of blooms that embody warmth and togetherness.\n\nOur artisans have crafted stunning floral arrangements, including the elegant Blush Serenity Birthday Bloom Box, perfect for sharing love and gratitude.\n\nVisit zuvees.ae when you're ready to explore our curated offerings and make this Eid memorable."
+      },
+      "whatsapp": null,
+      "push": null
+    },
+    "reasoning": "medium confidence eid_al_fitr via email.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": false,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "ae1e6daf-eca1-44bf-aba7-4d42b15cd7b9",
+    "customer_id": "cust_001",
+    "channel": "whatsapp",
+    "scheduled_send_time": "2026-05-29T16:00:00+00:00",
+    "occasion": "eid_al_fitr",
+    "confidence_score": "medium",
+    "message": {
+      "email": null,
+      "whatsapp": {
+        "template_body": "Happy Eid al-Fitr! Celebrate this wonderful occasion with a beautiful gift. Check out the stunning {{1}} perfect for your loved ones. \n\nReply STOP to opt out.",
+        "variables": [
+          "Blush Serenity Birthday Bloom Box"
+        ],
+        "has_opt_out_footer": true
+      },
+      "push": null
+    },
+    "reasoning": "medium confidence eid_al_fitr via whatsapp.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": true,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "342d9f45-ced6-46fc-a95e-a1cb25451b33",
+    "customer_id": "cust_015",
+    "channel": "whatsapp",
+    "scheduled_send_time": "2026-05-29T21:00:00+00:00",
+    "occasion": "eid_al_fitr",
+    "confidence_score": "medium",
+    "message": {
+      "email": null,
+      "whatsapp": {
+        "template_body": "Hi there! As Eid al-Fitr approaches on March 9, 2027, consider sending the lovely {{1}} to celebrate this special occasion. It's a beautiful way to express your joy and appreciation. \n\nReply STOP to opt out.",
+        "variables": [
+          "Blush Serenity Birthday Bloom Box"
+        ],
+        "has_opt_out_footer": true
+      },
+      "push": null
+    },
+    "reasoning": "medium confidence eid_al_fitr via whatsapp.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": true,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "c67e681d-976a-4d23-9fd3-0f4e32281bde",
+    "customer_id": "cust_016",
+    "channel": "email",
+    "scheduled_send_time": "2026-05-29T04:00:00+00:00",
+    "occasion": "eid_al_fitr",
+    "confidence_score": "medium",
+    "message": {
+      "email": {
+        "subject": "Celebrate Eid with Elegance",
+        "body": "As Eid al-Fitr approaches, it's the perfect time to share joy and blessings with those you hold dear.\n\nConsider our exquisite selection of flower arrangements, each crafted to convey your heartfelt wishes. The Blush Serenity Birthday Bloom Box, with its delicate blooms, embodies the spirit of celebration.\n\nVisit zuvees.ae to discover a meaningful gift that will brighten the festivities for your loved ones."
+      },
+      "whatsapp": null,
+      "push": null
+    },
+    "reasoning": "medium confidence eid_al_fitr via email.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": false,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "d4107fb0-8b00-4267-825c-5ffe3aa8e91e",
+    "customer_id": "cust_003",
+    "channel": "whatsapp",
+    "scheduled_send_time": "2026-05-29T21:00:00+00:00",
+    "occasion": "eid_al_fitr",
+    "confidence_score": "medium",
+    "message": {
+      "email": null,
+      "whatsapp": {
+        "template_body": "Hi {{1}}, Eid al-Fitr is approaching on 2027-03-09! Celebrate the occasion with our stunning gift, the {{2 }}. It\u2019s perfect to brighten up your festivities. \n\nReply STOP to opt out.",
+        "variables": [
+          "there",
+          "Blush Serenity Birthday Bloom Box"
+        ],
+        "has_opt_out_footer": true
+      },
+      "push": null
+    },
+    "reasoning": "medium confidence eid_al_fitr via whatsapp.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": true,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "927fc60a-433e-469c-a043-0fbaf5cf2ece",
+    "customer_id": "cust_023",
+    "channel": "whatsapp",
+    "scheduled_send_time": "2026-05-29T11:30:00+00:00",
+    "occasion": "eid_al_fitr",
+    "confidence_score": "medium",
+    "message": {
+      "email": null,
+      "whatsapp": {
+        "template_body": "Hi there! Eid al-Fitr is approaching on 9th March 2027. Celebrate with our exquisite {{1}}, perfect for the occasion. \n\nReply STOP to opt out.",
+        "variables": [
+          "Blush Serenity Birthday Bloom Box"
+        ],
+        "has_opt_out_footer": true
+      },
+      "push": null
+    },
+    "reasoning": "medium confidence eid_al_fitr via whatsapp.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": true,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "f1e13c39-bfa1-4590-bdae-b0974b76d3bf",
+    "customer_id": "cust_009",
+    "channel": "whatsapp",
+    "scheduled_send_time": "2026-05-30T01:00:00+00:00",
+    "occasion": "eid_al_fitr",
+    "confidence_score": "medium",
+    "message": {
+      "email": null,
+      "whatsapp": {
+        "template_body": "Hi there! Eid al-Fitr is around the corner on 2027-03-09. Consider the lovely {{1}} to make the celebration special. \n\nReply STOP to opt out.",
+        "variables": [
+          "Blush Serenity Birthday Bloom Box"
+        ],
+        "has_opt_out_footer": true
+      },
+      "push": null
+    },
+    "reasoning": "medium confidence eid_al_fitr via whatsapp.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": true,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "85cd4b81-7a30-44c7-ba7c-4b0ebdaf32cf",
+    "customer_id": "cust_012",
+    "channel": "whatsapp",
+    "scheduled_send_time": "2026-05-29T21:00:00+00:00",
+    "occasion": "eid_al_fitr",
+    "confidence_score": "medium",
+    "message": {
+      "email": null,
+      "whatsapp": {
+        "template_body": "Hi there! As Eid al-Fitr approaches on {{1}}, we thought you'd love the Blush Serenity Birthday Bloom Box to celebrate this special occasion. It\u2019s perfect for adding a touch of joy! \n\nReply STOP to opt out.",
+        "variables": [
+          "2027-03-09"
+        ],
+        "has_opt_out_footer": true
+      },
+      "push": null
+    },
+    "reasoning": "medium confidence eid_al_fitr via whatsapp.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": true,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "2a13488b-3aaa-45c8-8a27-88f3ec71309a",
+    "customer_id": "cust_040",
+    "channel": "email",
+    "scheduled_send_time": "2026-05-29T07:00:00+00:00",
+    "occasion": "thank_you",
+    "confidence_score": "medium",
+    "message": {
+      "email": {
+        "subject": "A Gesture of Gratitude for James",
+        "body": "As February approaches, it\u2019s the perfect time to express your appreciation to James.\n\nA thoughtful gift can truly convey gratitude; consider our elegant floral arrangements like the Blush Serenity Bloom Box, crafted with care and beauty.\n\nWhen you're ready, explore more at zuvees.ae to find the perfect way to say thank you."
+      },
+      "whatsapp": null,
+      "push": null
+    },
+    "reasoning": "medium confidence thank_you via email.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": true,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "29f77dc7-676d-4d5b-bfd4-facfb195ebc7",
+    "customer_id": "cust_029",
+    "channel": "whatsapp",
+    "scheduled_send_time": "2026-05-29T11:30:00+00:00",
+    "occasion": "eid_al_fitr",
+    "confidence_score": "medium",
+    "message": {
+      "email": null,
+      "whatsapp": {
+        "template_body": "Hi there! With Eid al-Fitr approaching on 9th March 2027, consider the lovely {{1}} to celebrate this special occasion. It's a beautiful way to share joy and gratitude. \n\nReply STOP to opt out.",
+        "variables": [
+          "Blush Serenity Birthday Bloom Box"
+        ],
+        "has_opt_out_footer": true
+      },
+      "push": null
+    },
+    "reasoning": "medium confidence eid_al_fitr via whatsapp.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": true,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "de26562c-f875-46a0-9064-2f2ecfde567e",
+    "customer_id": "cust_025",
+    "channel": "whatsapp",
+    "scheduled_send_time": "2026-05-29T14:00:00+00:00",
+    "occasion": "eid_al_fitr",
+    "confidence_score": "medium",
+    "message": {
+      "email": null,
+      "whatsapp": {
+        "template_body": "Hi! Eid al-Fitr is approaching on March 9th, and we've curated delightful floral gifts to celebrate the occasion. One of our top picks is the {{1}}. \n\nReply STOP to opt out.",
+        "variables": [
+          "Blush Serenity Birthday Bloom Box"
+        ],
+        "has_opt_out_footer": true
+      },
+      "push": null
+    },
+    "reasoning": "medium confidence eid_al_fitr via whatsapp.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": true,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "bec257c7-51c1-4ae6-b299-48dec678a1dd",
+    "customer_id": "cust_028",
+    "channel": "email",
+    "scheduled_send_time": "2026-05-29T04:00:00+00:00",
+    "occasion": "eid_al_fitr",
+    "confidence_score": "medium",
+    "message": {
+      "email": {
+        "subject": "Celebrate Eid with elegance",
+        "body": "Eid al-Fitr is approaching, a time to embrace joy and togetherness.\n\nWe have prepared a collection of exquisite floral arrangements, perfect for celebrating this special occasion with your loved ones.\n\nVisit zuvees.ae to explore these thoughtful gifts that reflect the spirit of Eid."
+      },
+      "whatsapp": null,
+      "push": null
+    },
+    "reasoning": "medium confidence eid_al_fitr via email.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": false,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "10509d41-9c12-4111-a1d3-c1850d598cc1",
+    "customer_id": "cust_027",
+    "channel": "email",
+    "scheduled_send_time": "2026-05-29T15:00:00+00:00",
+    "occasion": "thank_you",
+    "confidence_score": "medium",
+    "message": {
+      "email": {
+        "subject": "A Special Thank You for Sarah",
+        "body": "As the occasion to express gratitude approaches, take a moment to appreciate Sarah \u2014 a partner who means so much.\n\nConsider a beautiful gift, like our elegant Blush Serenity Birthday Bloom Box, thoughtfully crafted to convey your appreciation and love.\n\nExplore these heartfelt gestures at zuvees.ae, where every gift is a reflection of your feelings."
+      },
+      "whatsapp": null,
+      "push": null
+    },
+    "reasoning": "medium confidence thank_you via email.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": true,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "91b48155-e4eb-43d4-aa8a-f46a2b50b705",
+    "customer_id": "cust_043",
+    "channel": "whatsapp",
+    "scheduled_send_time": "2026-05-27T13:00:00+00:00",
+    "occasion": "eid_al_adha",
+    "confidence_score": "medium",
+    "message": {
+      "email": null,
+      "whatsapp": {
+        "template_body": "Hi! Eid al-Adha is approaching and we have a beautiful gift idea for you. Consider the {{1}} to celebrate this special occasion. \n\nReply STOP to opt out.",
+        "variables": [
+          "Blush Serenity Birthday Bloom Box"
+        ],
+        "has_opt_out_footer": true
+      },
+      "push": null
+    },
+    "reasoning": "medium confidence eid_al_adha via whatsapp.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": true,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "0e82c56a-fa88-42d0-9c7d-cb2e73a9b295",
+    "customer_id": "cust_006",
+    "channel": "email",
+    "scheduled_send_time": "2026-05-29T10:00:00+00:00",
+    "occasion": "eid_al_fitr",
+    "confidence_score": "medium",
+    "message": {
+      "email": {
+        "subject": "Celebrate Eid with Elegance",
+        "body": "Eid al-Fitr is just around the corner \u2014 a time to express gratitude and joy. This special occasion deserves thoughtful gifts that speak from the heart.\n\nOur Zuvees selection of exquisite flower arrangements, like the Blush Serenity Birthday Bloom Box, is designed to bring warmth and beauty to your Eid celebrations. Each bloom is a symbol of love and appreciation.\n\nWhen you\u2019re ready, explore our enchanting offerings on zuvees.ae to share meaningful moments with your loved ones."
+      },
+      "whatsapp": null,
+      "push": null
+    },
+    "reasoning": "medium confidence eid_al_fitr via email.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": false,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "3669781c-c4c0-492f-a26b-2926a31c8311",
+    "customer_id": "cust_036",
+    "channel": "whatsapp",
+    "scheduled_send_time": "2026-05-30T00:00:00+00:00",
+    "occasion": "eid_al_fitr",
+    "confidence_score": "medium",
+    "message": {
+      "email": null,
+      "whatsapp": {
+        "template_body": "Hi there! With Eid al-Fitr around the corner, consider our stunning {{1}} to celebrate this special occasion. It's the perfect way to share joy and warmth. \n\nReply STOP to opt out.",
+        "variables": [
+          "Blush Serenity Birthday Bloom Box"
+        ],
+        "has_opt_out_footer": true
+      },
+      "push": null
+    },
+    "reasoning": "medium confidence eid_al_fitr via whatsapp.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": true,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "194498f2-6278-4f82-af60-2fc3c1a2785c",
+    "customer_id": "cust_034",
+    "channel": "whatsapp",
+    "scheduled_send_time": "2026-05-29T13:00:00+00:00",
+    "occasion": "eid_al_fitr",
+    "confidence_score": "medium",
+    "message": {
+      "email": null,
+      "whatsapp": {
+        "template_body": "Hi there! Eid al-Fitr is approaching on 9th March 2027. Celebrate with the beautiful {{1}}, perfect for the occasion. \n\nReply STOP to opt out.",
+        "variables": [
+          "Blush Serenity Birthday Bloom Box"
+        ],
+        "has_opt_out_footer": true
+      },
+      "push": null
+    },
+    "reasoning": "medium confidence eid_al_fitr via whatsapp.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": true,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "dc1d28d4-24cd-4274-87d2-afd95a83c5a0",
+    "customer_id": "cust_048",
+    "channel": "whatsapp",
+    "scheduled_send_time": "2026-05-27T23:00:00+00:00",
+    "occasion": "eid_al_adha",
+    "confidence_score": "medium",
+    "message": {
+      "email": null,
+      "whatsapp": {
+        "template_body": "Hi there! Eid al-Adha is approaching on May 27, 2026. Consider celebrating this special occasion with our top choice, the {{1 }}. It\u2019s perfect for sharing joy and love during this festive time. \n\nReply STOP to opt out.",
+        "variables": [
+          "Blush Serenity Birthday Bloom Box"
+        ],
+        "has_opt_out_footer": true
+      },
+      "push": null
+    },
+    "reasoning": "medium confidence eid_al_adha via whatsapp.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": true,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "3d17aef8-6324-45a4-bca9-55a82fe62393",
+    "customer_id": "cust_043",
+    "channel": "whatsapp",
+    "scheduled_send_time": "2026-05-29T13:00:00+00:00",
+    "occasion": "eid_al_fitr",
+    "confidence_score": "medium",
+    "message": {
+      "email": null,
+      "whatsapp": {
+        "template_body": "Hi there! With Eid al-Fitr approaching on March 9, 2027, we have the perfect gift for you: the {{1}}. It's a beautiful way to celebrate this special occasion. \n\nReply STOP to opt out.",
+        "variables": [
+          "Blush Serenity Birthday Bloom Box"
+        ],
+        "has_opt_out_footer": true
+      },
+      "push": null
+    },
+    "reasoning": "medium confidence eid_al_fitr via whatsapp.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": true,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "b1897f0f-89e5-4c02-8d32-3eb1ec4374b8",
+    "customer_id": "cust_048",
+    "channel": "whatsapp",
+    "scheduled_send_time": "2026-05-29T23:00:00+00:00",
+    "occasion": "eid_al_fitr",
+    "confidence_score": "medium",
+    "message": {
+      "email": null,
+      "whatsapp": {
+        "template_body": "Hello! Eid al-Fitr is just around the corner. Celebrate with the beautiful {{1}} to add joy to your festivities. \n\nReply STOP to opt out.",
+        "variables": [
+          "Blush Serenity Birthday Bloom Box"
+        ],
+        "has_opt_out_footer": true
+      },
+      "push": null
+    },
+    "reasoning": "medium confidence eid_al_fitr via whatsapp.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": true,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "78055f0c-061b-411d-8a05-419b69008b11",
+    "customer_id": "cust_030",
+    "channel": "whatsapp",
+    "scheduled_send_time": "2026-05-29T21:00:00+00:00",
+    "occasion": "eid_al_fitr",
+    "confidence_score": "medium",
+    "message": {
+      "email": null,
+      "whatsapp": {
+        "template_body": "Hi there! As Eid al-Fitr approaches on March 9, 2027, consider celebrating with the beautiful {{1}}. It's a perfect addition to your festivities! \n\nReply STOP to opt out.",
+        "variables": [
+          "Blush Serenity Birthday Bloom Box"
+        ],
+        "has_opt_out_footer": true
+      },
+      "push": null
+    },
+    "reasoning": "medium confidence eid_al_fitr via whatsapp.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": true,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "3197eb5f-5554-4086-952e-e17f5bbf2854",
+    "customer_id": "cust_026",
+    "channel": "whatsapp",
+    "scheduled_send_time": "2026-05-29T14:30:00+00:00",
+    "occasion": "eid_al_fitr",
+    "confidence_score": "medium",
+    "message": {
+      "email": null,
+      "whatsapp": {
+        "template_body": "Hi there! As Eid al-Fitr approaches on 09 March 2027, consider sharing joy with the stunning {{1}}. It's perfect for celebrating this meaningful occasion. \n\nReply STOP to opt out.",
+        "variables": [
+          "Blush Serenity Birthday Bloom Box"
+        ],
+        "has_opt_out_footer": true
+      },
+      "push": null
+    },
+    "reasoning": "medium confidence eid_al_fitr via whatsapp.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": true,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "d151893a-8f3e-41a7-ab24-db44fd7a534c",
+    "customer_id": "cust_022",
+    "channel": "whatsapp",
+    "scheduled_send_time": "2026-05-29T13:00:00+00:00",
+    "occasion": "eid_al_fitr",
+    "confidence_score": "medium",
+    "message": {
+      "email": null,
+      "whatsapp": {
+        "template_body": "Hi there! Eid al-Fitr is approaching on 2027-03-09. Celebrate the occasion with our stunning top product, {{1}}. It's a perfect gift for your loved ones. \n\nReply STOP to opt out.",
+        "variables": [
+          "Blush Serenity Birthday Bloom Box"
+        ],
+        "has_opt_out_footer": true
+      },
+      "push": null
+    },
+    "reasoning": "medium confidence eid_al_fitr via whatsapp.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": true,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "1c570068-3576-47f0-b4e4-b0d7a75bfa2e",
+    "customer_id": "cust_038",
+    "channel": "email",
+    "scheduled_send_time": "2026-05-29T05:30:00+00:00",
+    "occasion": "eid_al_fitr",
+    "confidence_score": "medium",
+    "message": {
+      "email": {
+        "subject": "Celebrate Eid with Elegance",
+        "body": "Eid al-Fitr is approaching\u2014a special time to cherish and express our love for family and friends.\n\nWe invite you to explore our exquisite collection of floral arrangements, perfect for this joyous occasion. Each box is crafted with the utmost care, ensuring a beautiful expression of elegance and warmth.\n\nVisit zuvees.ae to select the perfect gift to share your heartfelt wishes this Eid."
+      },
+      "whatsapp": null,
+      "push": null
+    },
+    "reasoning": "medium confidence eid_al_fitr via email.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": true,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "f9205479-8bce-49f4-9880-bdbe7bd13ada",
+    "customer_id": "cust_021",
+    "channel": "whatsapp",
+    "scheduled_send_time": "2026-05-29T21:00:00+00:00",
+    "occasion": "eid_al_fitr",
+    "confidence_score": "medium",
+    "message": {
+      "email": null,
+      "whatsapp": {
+        "template_body": "Hello! Eid al-Fitr is approaching on 9th March 2027. Consider the beautiful {{1}}, a perfect way to celebrate this occasion with loved ones.\n\nReply STOP to opt out.",
+        "variables": [
+          "Blush Serenity Birthday Bloom Box"
+        ],
+        "has_opt_out_footer": true
+      },
+      "push": null
+    },
+    "reasoning": "medium confidence eid_al_fitr via whatsapp.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": true,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "dbcaefb0-194e-40b5-89fe-cb6c12414837",
+    "customer_id": "cust_031",
+    "channel": "whatsapp",
+    "scheduled_send_time": "2026-05-29T13:00:00+00:00",
+    "occasion": "eid_al_fitr",
+    "confidence_score": "medium",
+    "message": {
+      "email": null,
+      "whatsapp": {
+        "template_body": "Hi there! With Eid al-Fitr approaching on 9th March 2027, consider surprising your loved ones with the beautiful {{1}}. It's a perfect gift to celebrate this special occasion.\n\nReply STOP to opt out.",
+        "variables": [
+          "Blush Serenity Birthday Bloom Box"
+        ],
+        "has_opt_out_footer": true
+      },
+      "push": null
+    },
+    "reasoning": "medium confidence eid_al_fitr via whatsapp.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": true,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "e5008ffe-1237-4914-8abc-a7b1540234c4",
+    "customer_id": "cust_042",
+    "channel": "email",
+    "scheduled_send_time": "2026-05-27T15:00:00+00:00",
+    "occasion": "eid_al_adha",
+    "confidence_score": "medium",
+    "message": {
+      "email": {
+        "subject": "Celebrate Eid al-Adha with Elegance",
+        "body": "As Eid al-Adha approaches, it's a wonderful time to express love and gratitude with meaningful gifts.\n\nOur exquisite selection of floral arrangements, like the Blush Serenity Bloom Box, captures the essence of this special occasion. Crafted with care, these gifts resonate with tradition and beauty.\n\nVisit zuvees.ae to explore the perfect gift for your loved ones as the celebration draws near."
+      },
+      "whatsapp": null,
+      "push": null
+    },
+    "reasoning": "medium confidence eid_al_adha via email.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": true,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "b2b7ca03-921c-4f86-9a76-6d075c0283e4",
+    "customer_id": "cust_042",
+    "channel": "email",
+    "scheduled_send_time": "2026-05-29T15:00:00+00:00",
+    "occasion": "eid_al_fitr",
+    "confidence_score": "medium",
+    "message": {
+      "email": {
+        "subject": "Celebrate Eid al-Fitr with Grace",
+        "body": "Eid al-Fitr is a time for reflection and gratitude \u2014 a beautiful opportunity to connect with loved ones.\n\nThis year, share joy through our curated selection of exquisite flowers, such as the Blush Serenity Bloom Box, designed to bring harmony to the celebration.\n\nVisit zuvees.ae to explore thoughtful gifts that convey your warm wishes and appreciation."
+      },
+      "whatsapp": null,
+      "push": null
+    },
+    "reasoning": "medium confidence eid_al_fitr via email.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": true,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "8557a460-e9b4-4bdb-b0b8-baf0cac7ccbe",
+    "customer_id": "cust_045",
+    "channel": "email",
+    "scheduled_send_time": "2026-05-27T12:00:00+00:00",
+    "occasion": "eid_al_adha",
+    "confidence_score": "medium",
+    "message": {
+      "email": {
+        "subject": "Celebrate Eid al-Adha with Thoughtful Gifting",
+        "body": "Eid al-Adha is approaching, a perfect opportunity to express gratitude and warmth to your loved ones.\n\nOur collection features beautifully arranged flowers that embody the spirit of the celebration. Each bloom is selected with care to bring joy and elegance.\n\nVisit zuvees.ae to find the ideal gift that resonates with the significance of this occasion."
+      },
+      "whatsapp": null,
+      "push": null
+    },
+    "reasoning": "medium confidence eid_al_adha via email.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": false,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "06be342f-7f01-4d36-96b1-f26469754d47",
+    "customer_id": "cust_045",
+    "channel": "email",
+    "scheduled_send_time": "2026-05-29T12:00:00+00:00",
+    "occasion": "eid_al_fitr",
+    "confidence_score": "medium",
+    "message": {
+      "email": {
+        "subject": "Celebrate Eid with Luxurious Gifting",
+        "body": "As Eid al-Fitr approaches, it's the perfect opportunity to offer heartfelt wishes to your loved ones.\n\nOur selection of exquisite flower arrangements, including the stunning Blush Serenity Birthday Bloom Box, embodies the spirit of togetherness and joy this season brings.\n\nDiscover elegant options for your Eid celebrations on zuvees.ae, and let the moments of this special holiday be filled with beauty and love."
+      },
+      "whatsapp": null,
+      "push": null
+    },
+    "reasoning": "medium confidence eid_al_fitr via email.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": false,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "db47abc4-5bbd-43fa-96f1-9644e91fdaa8",
+    "customer_id": "cust_032",
+    "channel": "email",
+    "scheduled_send_time": "2026-05-29T05:30:00+00:00",
+    "occasion": "eid_al_fitr",
+    "confidence_score": "medium",
+    "message": {
+      "email": {
+        "subject": "Warm wishes for Eid",
+        "body": "Eid al-Fitr is approaching, a time to celebrate love and togetherness. As you gather with your loved ones, consider sharing the beauty of our floral arrangements and exquisite gifts.\n\nOur selection includes stunning bloom boxes that evoke the spirit of the season, including the enchanting Blush Serenity Birthday Bloom Box. Each creation is made with care to bring joy to your celebrations.\n\nVisit zuvees.ae to find the perfect gift that embodies the essence of Eid for those special to you."
+      },
+      "whatsapp": null,
+      "push": null
+    },
+    "reasoning": "medium confidence eid_al_fitr via email.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": true,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "2219c4e6-469d-4035-aae3-a910ab831a84",
+    "customer_id": "cust_047",
+    "channel": "email",
+    "scheduled_send_time": "2026-05-29T03:30:00+00:00",
+    "occasion": "eid_al_fitr",
+    "confidence_score": "medium",
+    "message": {
+      "email": {
+        "subject": "Warm wishes for Eid al-Fitr",
+        "body": "As Eid al-Fitr approaches, may the spirit of celebration fill your heart with joy and gratitude.\n\nThis is a wonderful time to connect with loved ones, and our curated collection of beautiful blooms can help you express your warm wishes.\n\nDiscover the elegance of our floral arrangements, perfect for sharing joy during this festive occasion, at zuvees.ae."
+      },
+      "whatsapp": null,
+      "push": null
+    },
+    "reasoning": "medium confidence eid_al_fitr via email.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": true,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "2ab1c271-6112-4b3f-b42b-f6ba61160eb6",
+    "customer_id": "cust_035",
+    "channel": "email",
+    "scheduled_send_time": "2026-05-29T00:30:00+00:00",
+    "occasion": "eid_al_fitr",
+    "confidence_score": "medium",
+    "message": {
+      "email": {
+        "subject": "A Joyous Eid Al-Fitr Celebration",
+        "body": "Eid al-Fitr is upon us, a beautiful time to gather and reflect on the blessings of the past year. \n\nAt Zuvees, we've curated exquisite gift options, including our enchanting Blush Serenity Bloom Box, designed to bring smiles. Each piece is crafted with premium care, perfect for making cherished memories during this festive season.\n\nVisit zuvees.ae to explore our full collection and share the joy with your loved ones."
+      },
+      "whatsapp": null,
+      "push": null
+    },
+    "reasoning": "medium confidence eid_al_fitr via email.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": true,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "8ee9b7de-c025-431d-a589-c31a6745313d",
+    "customer_id": "cust_047",
+    "channel": "email",
+    "scheduled_send_time": "2026-05-27T03:30:00+00:00",
+    "occasion": "eid_al_adha",
+    "confidence_score": "medium",
+    "message": {
+      "email": {
+        "subject": "Celebrate Eid al-Adha with Elegance",
+        "body": "Eid al-Adha is approaching, a time for reflection and joyous gatherings with loved ones.\n\nWe have curated exquisite floral arrangements and gift boxes that embody the spirit of celebration. Each creation is made with care to ensure it reflects your heartfelt wishes.\n\nAs the occasion draws closer, explore our selection at zuvees.ae to find the perfect gift for this meaningful celebration."
+      },
+      "whatsapp": null,
+      "push": null
+    },
+    "reasoning": "medium confidence eid_al_adha via email.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": true,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "df35e589-8a14-4b99-b31c-e2596f5eb8bd",
+    "customer_id": "cust_050",
+    "channel": "email",
+    "scheduled_send_time": "2026-05-29T03:30:00+00:00",
+    "occasion": "eid_al_fitr",
+    "confidence_score": "medium",
+    "message": {
+      "email": {
+        "subject": "Celebrate the spirit of Eid",
+        "body": "Eid al-Fitr is approaching, a beautiful occasion for reflection and joy.\n\nEmbrace the celebrations with exquisite flowers that embody the essence of the festival. Our curated selection of bloom boxes, like the elegant Blush Serenity, will bring warmth and delight to your gifting.\n\nLet your generosity shine this Eid by choosing something special from zuvees.ae when you're ready."
+      },
+      "whatsapp": null,
+      "push": null
+    },
+    "reasoning": "medium confidence eid_al_fitr via email.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": true,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "2ec3108a-efb2-4fa4-86f2-057562a7da95",
+    "customer_id": "cust_041",
+    "channel": "whatsapp",
+    "scheduled_send_time": "2026-05-29T11:30:00+00:00",
+    "occasion": "eid_al_fitr",
+    "confidence_score": "medium",
+    "message": {
+      "email": null,
+      "whatsapp": {
+        "template_body": "Hi there! Eid al-Fitr is approaching on March 9th, and we have lovely selections like the {{1}} that you might enjoy. \n\nCelebrate the occasion beautifully! \n\nReply STOP to opt out.",
+        "variables": [
+          "Blush Serenity Birthday Bloom Box"
+        ],
+        "has_opt_out_footer": true
+      },
+      "push": null
+    },
+    "reasoning": "medium confidence eid_al_fitr via whatsapp.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": true,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "1871c03c-b1fb-4b8b-90d4-73e0e874b7b9",
+    "customer_id": "cust_049",
+    "channel": "email",
+    "scheduled_send_time": "2026-05-27T07:00:00+00:00",
+    "occasion": "eid_al_adha",
+    "confidence_score": "medium",
+    "message": {
+      "email": {
+        "subject": "Celebrate Eid al-Adha with Elegance",
+        "body": "As Eid al-Adha approaches, it's a wonderful time to express warmth and gratitude to those you hold dear.\n\nWe invite you to explore our elegantly curated selection, featuring stunning floral arrangements that embody the spirit of the season. Each bloom is chosen with care to convey your heartfelt wishes.\n\nVisit zuvees.ae for a thoughtful gift that will brighten any celebration."
+      },
+      "whatsapp": null,
+      "push": null
+    },
+    "reasoning": "medium confidence eid_al_adha via email.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": true,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "2555ebf0-9522-4008-b9bd-1ba0048b5cfe",
+    "customer_id": "cust_044",
+    "channel": "email",
+    "scheduled_send_time": "2026-05-27T05:30:00+00:00",
+    "occasion": "eid_al_adha",
+    "confidence_score": "medium",
+    "message": {
+      "email": {
+        "subject": "Embrace the spirit of Eid al-Adha",
+        "body": "As Eid al-Adha approaches, let us embrace the joy of togetherness and generosity.\n\nExplore our exquisite collection of flowers, including the Blush Serenity Bloom Box, designed to bring beauty and warmth to your celebrations.\n\nVisit zuvees.ae to find the perfect gifts that reflect the spirit of this special occasion."
+      },
+      "whatsapp": null,
+      "push": null
+    },
+    "reasoning": "medium confidence eid_al_adha via email.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": true,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "600fb742-7d35-4338-9025-a17385e65a70",
+    "customer_id": "cust_044",
+    "channel": "email",
+    "scheduled_send_time": "2026-05-29T05:30:00+00:00",
+    "occasion": "eid_al_fitr",
+    "confidence_score": "medium",
+    "message": {
+      "email": {
+        "subject": "Warm wishes for Eid al-Fitr",
+        "body": "Eid al-Fitr is approaching, a time to embrace joy and gratitude with your loved ones.\n\nConsider the beauty of our flower arrangements, like the elegant Blush Serenity Birthday Bloom Box, designed to uplift and express your sentiments.\n\nVisit zuvees.ae to discover an array of thoughtfully curated gifts that honor this special occasion."
+      },
+      "whatsapp": null,
+      "push": null
+    },
+    "reasoning": "medium confidence eid_al_fitr via email.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": true,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "6123e28f-2d17-41cf-a3a2-8c884adcd5fa",
+    "customer_id": "cust_050",
+    "channel": "email",
+    "scheduled_send_time": "2026-05-27T03:30:00+00:00",
+    "occasion": "eid_al_adha",
+    "confidence_score": "medium",
+    "message": {
+      "email": {
+        "subject": "Celebrate Eid al-Adha with Elegance",
+        "body": "Eid al-Adha is just around the corner, a moment to embrace joy and togetherness.\n\nWe invite you to explore our exquisite collection of blooming gifts, featuring elegant arrangements like the Blush Serenity Bloom Box, perfect for sharing your love during this festive occasion.\n\nVisit zuvees.ae to find that special gift that resonates with the spirit of Eid, tailored for your cherished moments."
+      },
+      "whatsapp": null,
+      "push": null
+    },
+    "reasoning": "medium confidence eid_al_adha via email.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": true,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "d603d7ca-3182-4165-bc00-a5967c28e073",
+    "customer_id": "cust_039",
+    "channel": "email",
+    "scheduled_send_time": "2026-05-29T15:00:00+00:00",
+    "occasion": "eid_al_fitr",
+    "confidence_score": "medium",
+    "message": {
+      "email": {
+        "subject": "Celebrate Eid with warmth and joy",
+        "body": "Eid al-Fitr is approaching, a time to celebrate with loved ones and share cherished moments.\n\nOur exquisite collection of flowers and thoughtfully curated gifts will help you express your heartfelt wishes during this festive season.\n\nDiscover the elegance of our arrangements, like the Blush Serenity Birthday Bloom Box, and let your gifts convey the joy of Eid. Visit zuvees.ae when you\u2019re ready to choose something special."
+      },
+      "whatsapp": null,
+      "push": null
+    },
+    "reasoning": "medium confidence eid_al_fitr via email.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": false,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "b303d3ad-8649-4748-bd21-efcd635cb9ab",
+    "customer_id": "cust_049",
+    "channel": "email",
+    "scheduled_send_time": "2026-05-29T07:00:00+00:00",
+    "occasion": "eid_al_fitr",
+    "confidence_score": "medium",
+    "message": {
+      "email": {
+        "subject": "Eid Mubarak to You and Your Family",
+        "body": "As Eid al-Fitr approaches, it's the perfect time to reflect on the joy and gratitude this special occasion brings.\n\nCelebrate with exquisite floral arrangements like our elegant Bloom Boxes, thoughtfully designed to capture the essence of the holiday. Sharing beauty and love with those around you is the heart of Eid.\n\nExplore more gifts that embody warmth and celebration at zuvees.ae as you prepare for this blessed time."
+      },
+      "whatsapp": null,
+      "push": null
+    },
+    "reasoning": "medium confidence eid_al_fitr via email.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": true,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "06aa2c76-9051-4eff-97ff-46012ca9be23",
+    "customer_id": "cust_041",
+    "channel": "whatsapp",
+    "scheduled_send_time": "2026-05-27T11:30:00+00:00",
+    "occasion": "eid_al_adha",
+    "confidence_score": "medium",
+    "message": {
+      "email": null,
+      "whatsapp": {
+        "template_body": "Hi there! With Eid al-Adha approaching on May 27, 2026, consider the lovely {{1}} to celebrate this special occasion. It's a beautiful way to express your sentiments. \n\nReply STOP to opt out.",
+        "variables": [
+          "Blush Serenity Birthday Bloom Box"
+        ],
+        "has_opt_out_footer": true
+      },
+      "push": null
+    },
+    "reasoning": "medium confidence eid_al_adha via whatsapp.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": true,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "94ee3a40-f707-42cd-886a-4e692c3f99e4",
+    "customer_id": "cust_046",
+    "channel": "whatsapp",
+    "scheduled_send_time": "2026-05-27T13:00:00+00:00",
+    "occasion": "eid_al_adha",
+    "confidence_score": "medium",
+    "message": {
+      "email": null,
+      "whatsapp": {
+        "template_body": "Hello! With Eid al-Adha approaching on May 27, 2026, we have an exquisite selection ready for you. Consider the lovely {{1}}, a perfect gesture for the occasion.\n\nReply STOP to opt out.",
+        "variables": [
+          "Blush Serenity Birthday Bloom Box"
+        ],
+        "has_opt_out_footer": true
+      },
+      "push": null
+    },
+    "reasoning": "medium confidence eid_al_adha via whatsapp.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": true,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "a3554338-af22-4a37-b9b1-1f98ac0c2261",
+    "customer_id": "cust_046",
+    "channel": "whatsapp",
+    "scheduled_send_time": "2026-05-29T13:00:00+00:00",
+    "occasion": "eid_al_fitr",
+    "confidence_score": "medium",
+    "message": {
+      "email": null,
+      "whatsapp": {
+        "template_body": "Hi there! As Eid al-Fitr approaches on March 9, 2027, consider gifting the beautiful {{1}}. It's a perfect way to celebrate this special occasion with loved ones.\n\nReply STOP to opt out.",
+        "variables": [
+          "Blush Serenity Birthday Bloom Box"
+        ],
+        "has_opt_out_footer": true
+      },
+      "push": null
+    },
+    "reasoning": "medium confidence eid_al_fitr via whatsapp.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": true,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  },
+  {
+    "send_id": "30da5f74-3920-4381-a4d3-42e5afbe74f0",
+    "customer_id": "cust_037",
+    "channel": "whatsapp",
+    "scheduled_send_time": "2026-05-29T14:00:00+00:00",
+    "occasion": "eid_al_fitr",
+    "confidence_score": "medium",
+    "message": {
+      "email": null,
+      "whatsapp": {
+        "template_body": "Hi there! Eid al-Fitr is approaching on March 9, 2027. Consider celebrating this special occasion with the beautiful {{1}}. Wishing you joy and happiness! \n\nReply STOP to opt out.",
+        "variables": [
+          "Blush Serenity Birthday Bloom Box"
+        ],
+        "has_opt_out_footer": true
+      },
+      "push": null
+    },
+    "reasoning": "medium confidence eid_al_fitr via whatsapp.",
+    "consent_status": {
+      "email": true,
+      "whatsapp": true,
+      "push": true
+    },
+    "fatigue_check": {
+      "messages_this_week": 2,
+      "within_limit": true
+    }
+  }
+]
