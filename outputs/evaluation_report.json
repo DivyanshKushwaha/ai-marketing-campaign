@@ -1,0 +1,46 @@
+{
+  "dimensions": [
+    {
+      "name": "Occasion Detection",
+      "self_score": 4,
+      "justification": "Hijri Eid, order-inferred low/medium occasions, and Mom/Dad clustering are present with evidence; profile rows often miss recipient_relationship.",
+      "would_improve": "Attach order relationships to profile occasions and add March 8 order-pattern detection."
+    },
+    {
+      "name": "Prompt Engineering",
+      "self_score": 4,
+      "justification": "Structured prompts, safety filters, and clean email/WhatsApp copy; push path exists but no push sends in the schedule.",
+      "would_improve": "Schedule push when eligible and match catalogue SKUs to each occasion in LLM context."
+    },
+    {
+      "name": "System Design",
+      "self_score": 5,
+      "justification": "Modular pipeline, docker-compose one-shot, fatigue cap, consent checks, and channel routing all work end to end.",
+      "would_improve": "Replace browse-as-email proxy with real open events and a persistent send ledger."
+    },
+    {
+      "name": "Send-Time Optimisation",
+      "self_score": 4,
+      "justification": "Timezone mapping, segment cold-start, urgency caps, and quiet-hour avoidance are implemented in orchestration_engine.",
+      "would_improve": "Store explicit customer timezones and add automated local-time quiet-hour validation."
+    },
+    {
+      "name": "Data Quality",
+      "self_score": 3,
+      "justification": "50 customers, 500 events, 100 SKUs, and three timezone bands meet scale; Feb/Dec occasion tags are only loosely aligned.",
+      "would_improve": "Tighten seasonal occasion_tags and add email_open plus country segment fields."
+    },
+    {
+      "name": "Code & Infrastructure",
+      "self_score": 4,
+      "justification": "docker-compose up runs pipeline and tests; all required outputs exist with 7/7 tests and ~81% coverage.",
+      "would_improve": "Add orchestration edge-case tests and a compose healthcheck for CI."
+    },
+    {
+      "name": "Post-Mortem Quality",
+      "self_score": 4,
+      "justification": "POST_MORTEM prioritises attribution, A/B loops, and honest limits tied to DESIGN_DECISIONS and README.",
+      "would_improve": "Add a self-score vs automated QA comparison table after a schedule validator ships."
+    }
+  ]
+}
