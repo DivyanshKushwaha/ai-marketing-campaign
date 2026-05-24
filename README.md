@@ -1,4 +1,4 @@
-# Zuvees AI Marketing Automation
+# AI Marketing Automation
 
 Offline Python pipeline for occasion detection, LLM message generation, send-time optimisation, and campaign scheduling for a UAE luxury gifting brand.
 
